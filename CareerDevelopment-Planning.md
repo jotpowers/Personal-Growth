@@ -19,7 +19,9 @@ This is not what we're looking for.  By focusing on a title or a position you ar
 * Who do I know in those positions and what do I see that they do well or poorly?
 and finally...
 * What do I find emotionally satisfying?
-This last one really requires you to think.  There are reasons that things make you want to do them.  Perhaps you've never thought of the reasons behind why.   Perhaps it's helping people, or seeing an end result, but the why of something being emotionally satisfying isn't that important.  Recognizing the piece that makes it emotionally satisfying is critical, because then you can figure out how to do things that produce that result for you in your work life.
+
+   This last one really requires you to think.  There are reasons that things make you want to do them.  Perhaps you've never thought of the reasons behind why.  Perhaps it's helping people, or seeing an end result, but the why of something being emotionally satisfying isn't that important.  Recognizing the piece that makes it emotionally satisfying is critical, because then you can figure out how to do things that produce that result for you in your work life.
+
 Really think about these things and start writing down your answers.
 
 ### Why do we do this?
