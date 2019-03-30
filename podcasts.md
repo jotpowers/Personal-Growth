@@ -15,7 +15,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * 1/3/17 - [Dan Egan - Designing Better Decisions](http://investorfieldguide.com/egan/)
 * 2/7/17 - [Joe Mansueto - Lessons from the Founder of Morningstar](http://investorfieldguide.com/joe/)
 * 4/11/17 - [Boyd Varty - The Art of Tracking](http://investorfieldguide.com/boyd/)
-** Ok, this one is a bit out there.  I think Patrick is a little too caught up in the mystique, and I think it's a little too "soft" for me.  But still, there are things here that are important.
+ * Ok, this one is a bit out there.  I think Patrick is a little too caught up in the mystique, and I think it's a little too "soft" for me.  But still, there are things here that are important.
 * 4/25/17 - Danny Moses - The Big Short and Beyond
 * 5/23/17 - David Salem - The Art of Asset Alocation
 * 7/5/17 - Patric O'Shaughnessy - Top Ten Lessons After Almost a Year
@@ -40,9 +40,9 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * 1/3/18 - Chris Voss - The Art of Letting Other People Have Your Way
 * 7/11/18 - William MacAskill - The Science of Doing Good
 * 7/24/18 - Annie Duke - Getting Better by Being Wrong
-** Build a decision group
-** Think in statistics
-** Do not confuse outcomes with decision making
+ * Build a decision group
+ * Think in statistics
+ * Do not confuse outcomes with decision making
 * 10/2/18 - Atul Gawanda - The Path to Perpetual Progress
 ** Cultures of improvement.  He discusses how we as people are bad at doing things that we can measure as being better and how hard that is.  He's a surgeon, and talks about the amount of mistakes in our systems that can kill people.  It is inevitable, but how do you work to improve that.  I think it has a huge benefit to a company.
 ** The discussion of end-of-life healthcare and goals is something everyone should listen to.
@@ -63,7 +63,7 @@ A ton of very short episodes.  I find them really interesting, but in a trivia k
 #### Must listen to episodes
 
 * 6/30/11 - Dr. Gary Kaplan - The Blue Yarn
-** I have no idea why.  :)
+ * I have no idea why.  :)
 
 ### Marketplace - Kai Ryssdal
 
