@@ -54,13 +54,23 @@ These are in no particular order, so don't make too much of it
   * If you made the case that [Jack Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) has done more for investors than anyone else in the last 50 years, I think you'd have a pretty strong case.  Index funds.  Lower costs.  Math matters.   The book however, makes the same mistake of asserting an opinion, having some examples, and then repeating itself.  Instead of reading this book, spend more time on [Bogleheads](https://www.bogleheads.org/) and you'll be better off.
   * I guess you could look at [my investing documentation](https://github.com/jotpowers/College-Grads) too, but given that it's heavily biased toward the Bogle process, might be repetitive.
 * The Upside of Stress - Kelly McGonigal
-* The Snowball (Warren Buffett and the Business of Life) - Alice Schroeder
-* The Warren buffett Way - Robert Hagstrom
+* Warren Buffett
+  * There are multiple books about him.  In general, it's pretty clear, he's way above the rest of us.  The books about him, maybe not so much.
+    * The Snowball (Warren Buffett and the Business of Life) - Alice Schroeder
+
+      This is a long book about his life.  Interesting.  A lot of detail.  I guess useful background information?
+
+    * The Warren Buffett Way - Robert Hagstrom
+
+      I found his description of the principles interesting.  Then they take the examples and try to twist the principles to make them match, when they don't.  I have an idea:  Maybe Warren sees things better than we do and we should quit trying to back justify his decisions.
 
 ## A Waste of eInk
 * The Advantage - Patrick Lencioni
+  * Let's start with an opinion based in consulting instead of real world experience.  Then let's season it with the astrology that is Meyers-Briggs.  Then let's go do something productive, like not reading this book
 * The One-Page Financial Plan - Carl Richards
+  * If you need more than 30 pages to explain a one-page financial plan, you're doing something wrong.
 * The Phoenix Project
+  * A crappy DevOps book masquerading as a novel.  Your time would be better spent watching soap operas.
 
 
 # Audiobooks
