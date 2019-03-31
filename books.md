@@ -16,13 +16,22 @@ This kills me. Even at 2X they go too slow. I think *Team of Teams* was 12+ hour
 These are in no particular order, so don't make too much of it
 
 * Extreme Ownership - Jocko Willink and Leif Babin
+  * This is a great book.  I do think it goes too heavily on the military side of things, and as a result will lose a large number of people who could benefit from it.  
+  * Summary:  You need to own all of your outcomes.  Do not blame others.  Instead, figure out how you could have changed an outcome.  
+  * Honestly, it won't always work.  You can't always get there.  But if you really work at this, you will be orders of magnitude better than the mean.
 * A Random Walk Down Wallstreet - Burton Malkiel
 * Factfulness - Hans Rosling
 * Give and Take - Adam Grant
 * Lean In - Sheryl Sandberg (but only the last half)
+  * I spent the first 50% of this book wondering if it would be useful, and it wasn't.  Until the second 50%.  The discussion on how women automatically make choices to compromise their careers, because of their perception of what society wants, is fantastic.  Now, maybe you end up in the same place, but if you do it conciously that is far better than people who never think about it.  
+  * It's not just a book for women.  I think every male leader should read it too, in order to understand the problem and be able to facilitate for women who haven't read the book, to encourage them to think of these things.
 * Normal Accidents - Charles Perrow
+  * This is likely the book on the list that the fewest people have heard about.  I don't even remember how it got on my radar, but it is foundational.  I actually built a presentation based off of this, for software systems.  The presentation is built with the idea that, well, I'm going to be presenting it, so there aren't a lot of notes.  Let me know if there is demand to improve that, otherwise here is [Jot's presentation on Normal Accidents and how it pertains to large scale internet systems and software development](References/2017-jot-normal-accidents.pptx). 
+  * Summary:  If you have a complex, tightly coupled system, you are going to have accidents.  They aren't going to be extraordinary, they will be normal.  In this context it evaluated nuclear power plants, and the realizations of the inevitability of issues should be eye opening.
 * Outsiders - William Thorndike
 * Superforecasting - Philip Tetlock
+  * Every time I hear someone say "this is going to happen" or "this won't happen" or "there is an X% chance of Y happening", I think back to this book.  I also think 98% of the time people haven't read it.  
+     * How did I come up with that number?  The book was released in 2015, and it's shockingly hard to find total number of sales for an individual book.  I'm sure the authors know, since they get paid based on that.  But still, I found [some data](https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/78257-print-unit-sales-up-in-2018-to-date.html) showing that January to September of 2018 there were 476,676,000 books sold.  The precision of the numbers is going to lead us astray, so I'll multiple 1.33 (to cover the rest of the year) and round up to 700,000,000 to cover a surge in holidays.  This represents a 2.5% increase over 2017, but let's set an upper bound.  If we assume 700,000,000 books a year from 2015 (publication date) and today we're at 2.8B books.  Now, in 2018 206,312,000 were adult non-fiction, which is where our book fits.  This represents 43% of total sales.  Now, sadly our book doesn't make the top 50 of most important business books, but Amazon has it as #25 in Business Planning & Forecasting, and #30,063 overall.  Now, we're going to assume Amazon has a big enough sample size to smooth out anomalies.  This is already going too long, so we're going to make a poor choice and say, worst case, upper bound, that all of the top 30,000 books over 4 years sell the same amount.  This is probably grossly wrong, as I expect the 80/20 rule to come into effect.  If we take 2.8 billion / 30k we're at 93000 per place.  So, for the 4 years that puts us at 360,000 copies.  Now, we could do more work, but if we go with a US population of [327 million for 2018](https://www.census.gov/popclock/) means we get a 1.14 percent chance that someone has read the book.  Close enough to 2% that I'm pretty confident of my 98% number.
 * The Subtle Art of Not Giving a F*ck - Mark Manson
 * Thinking, Fast and Slow - Daniel Kahneman
 * Team of Teams - General Stanley McCrystal
