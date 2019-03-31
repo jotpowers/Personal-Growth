@@ -52,6 +52,7 @@ These are in no particular order, so don't make too much of it
   * Following up on *Extreme Ownership*, this addresses the challenges that if you own everything, you'll get bogged down.  Let me help you out:  Don't be an idiot.  Make honest efforts to own outcomes, but recognize when it is, that other people will be involved and you can't own everything.
 * The Little Book of Common Sense Investing - John Bogle
   * If you made the case that [Jack Bogle](https://en.wikipedia.org/wiki/John_C._Bogle) has done more for investors than anyone else in the last 50 years, I think you'd have a pretty strong case.  Index funds.  Lower costs.  Math matters.   The book however, makes the same mistake of asserting an opinion, having some examples, and then repeating itself.  Instead of reading this book, spend more time on [Bogleheads](https://www.bogleheads.org/) and you'll be better off.
+  * I guess you could look at [my investing documentation](https://github.com/jotpowers/College-Grads) too, but given that it's heavily biased toward the Bogle process, might be repetitive.
 * The Upside of Stress - Kelly McGonigal
 * The Snowball (Warren Buffett and the Business of Life) - Alice Schroeder
 * The Warren buffett Way - Robert Hagstrom
