@@ -2,7 +2,7 @@
 
 This is my favorite material for learning while I commute.  In particular, it's because there is no other way for me to access this material.  With audiobooks, I can still read the visualbooks versions of them.  But, finding good podcasts is hard.  So hard, that I actually haven't found very many that are useful at all.  So, I'm going to list them here, with the episodes.  This is actually a great forcing function for me, because now I'll have to go back through the ones that I said to myself "Oh shit, this is important" and re-listen.  From there I'll try to make notes of what it was I thought was important here.  This will also let me check if I just liked them because I was drinking at the time.
 
-A quick metric for me on the quality of a podcast:  Do I have to listen to it at less than 2.0X?  If the information is so dense that I find myself dropping to 1.8 or even *<gasp>* 1.6, I know that either there is some real information density in here, or someone is really good at snowing me.
+A quick metric for me on the quality of a podcast:  Do I have to listen to it at less than 2.0X?  If the information is so dense that I find myself dropping to 1.8 or even *gasp* 1.6, I know that either there is some real information density in here, or someone is really good at snowing me.
 
 ## Favorites
 
@@ -27,23 +27,23 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * 11/13/18 - [Cliff Asness - The Past, The Present & Future of Quant](http://investorfieldguide.com/asness/)
 * 12/4/18 - [Maureen Chiquet - Leadership Through Hard Conversations](http://investorfieldguide.com/maureen/)
 
-###The Knowledge Project - Shane Parrish
+### The Knowledge Project - Shane Parrish
 
    This spans a wide range of people and topics, but I find that, more often than not, there are things that really make me think, and perhaps make me consider things in a different light. Also responsible for about 25% of my reading list.
 
 #### Must listen to episodes
 
-* 10/24/16 - Morgan Housel - Reading, Writing and Lifelong Learning
-* 11/28/16 - Samuel Arbesman - Future-Proof Your Knowledge
-* 5/30/17 - Roy Sutherland - The Psychology of Advertising
-* 11/1/17 - Susan Cain - Leading the "Quiet Revolution"
-* 1/3/18 - Chris Voss - The Art of Letting Other People Have Your Way
-* 7/11/18 - William MacAskill - The Science of Doing Good
-* 7/24/18 - Annie Duke - Getting Better by Being Wrong
+* 10/24/16 - [Morgan Housel - Reading, Writing and Lifelong Learning](https://fs.blog/morgan-housel/)
+* 11/28/16 - [Samuel Arbesman - Future-Proof Your Knowledge](https://fs.blog/samuel-arbesman/)
+* 5/30/17 - [Roy Sutherland - The Psychology of Advertising](https://fs.blog/rory-sutherland/)
+* 11/1/17 - [Susan Cain - Leading the "Quiet Revolution"](https://fs.blog/susan-cain/)
+* 1/3/18 - [Chris Voss - The Art of Letting Other People Have Your Way](https://fs.blog/2018/01/chris-voss/)
+* 7/11/18 - [William MacAskill - The Science of Doing Good](https://fs.blog/william-macaskill/)
+* 7/24/18 - [Annie Duke - Getting Better by Being Wrong](https://fs.blog/annie-duke/)
   * Build a decision group
   * Think in statistics
   * Do not confuse outcomes with decision making
-* 10/2/18 - Atul Gawanda - The Path to Perpetual Progress
+* 10/2/18 - [Atul Gawanda - The Path to Perpetual Progress](https://fs.blog/atul-gawande/)
   * Cultures of improvement.  He discusses how we as people are bad at doing things that we can measure as being better and how hard that is.  He's a surgeon, and talks about the amount of mistakes in our systems that can kill people.  It is inevitable, but how do you work to improve that.  I think it has a huge benefit to a company.
   * The discussion of end-of-life healthcare and goals is something everyone should listen to.
   * Differences between coaches and mentors
@@ -62,7 +62,7 @@ A ton of very short episodes.  I find them really interesting, but in a trivia k
 
 #### Must listen to episodes
 
-* 6/30/11 - Dr. Gary Kaplan - The Blue Yarn
+* 6/30/11 - [Dr. Gary Kaplan - The Blue Yarn](https://99percentinvisible.org/episode/episode-30-the-blue-yarn-download-embed-share/)
   * I have no idea why.  :)
 
 ### Marketplace - Kai Ryssdal
