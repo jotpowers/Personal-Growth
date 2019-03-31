@@ -16,16 +16,16 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * 2/7/17 - [Joe Mansueto - Lessons from the Founder of Morningstar](http://investorfieldguide.com/joe/)
 * 4/11/17 - [Boyd Varty - The Art of Tracking](http://investorfieldguide.com/boyd/)
   * Ok, this one is a bit out there.  I think Patrick is a little too caught up in the mystique, and I think it's a little too "soft" for me.  But still, there are things here that are important.
-* 4/25/17 - Danny Moses - The Big Short and Beyond
-* 5/23/17 - David Salem - The Art of Asset Alocation
-* 7/5/17 - Patric O'Shaughnessy - Top Ten Lessons After Almost a Year
-* 10/17/17 - Tim Urban - Grand Theft Life
-* 3/27/18 - Peter Attia - Dinner Series (Health)
-* 6/12/18 - Michael Recce - Tim Cook's Dashboard
-* 6/26/18 - Eric Balchunas - The Past, Present & Future of ETFs
-* 8/28/18 - Elad Gil - How to Identify Interesting Markets
-* 11/13/18 - Cliff Asness - The Past, The Present & Future of Quant
-* 12/4/18 - Maureen Chiquet - Leadership Through Hard Conversations
+* 4/25/17 - [Danny Moses - The Big Short and Beyond](http://investorfieldguide.com/danny/)
+* 5/23/17 - [David Salem - The Art of Asset Alocation](http://investorfieldguide.com/salem/)
+* 7/5/17 - [Patrick O'Shaughnessy - Top Ten Lessons After Almost a Year](http://investorfieldguide.com/lessons-learned-after-almost-a-year/)
+* 10/17/17 - [Tim Urban - Grand Theft Life](http://investorfieldguide.com/urban/)
+* 3/27/18 - [Peter Attia - Dinner Series - *Health focus*](http://investorfieldguide.com/attialive/)
+* 6/12/18 - [Michael Recce - Tim Cook's Dashboard](http://investorfieldguide.com/reece/)
+* 6/26/18 - [Eric Balchunas - The Past, Present & Future of ETFs](http://investorfieldguide.com/balchunas/)
+* 8/28/18 - [Elad Gil - How to Identify Interesting Markets](http://investorfieldguide.com/elad/)
+* 11/13/18 - [Cliff Asness - The Past, The Present & Future of Quant](http://investorfieldguide.com/asness/)
+* 12/4/18 - [Maureen Chiquet - Leadership Through Hard Conversations](http://investorfieldguide.com/maureen/)
 
 ###The Knowledge Project - Shane Parrish
 
