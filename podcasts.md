@@ -47,6 +47,9 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
   * Cultures of improvement.  He discusses how we as people are bad at doing things that we can measure as being better and how hard that is.  He's a surgeon, and talks about the amount of mistakes in our systems that can kill people.  It is inevitable, but how do you work to improve that.  I think it has a huge benefit to a company.
   * The discussion of end-of-life healthcare and goals is something everyone should listen to.
   * Differences between coaches and mentors
+* 11/18? - [Jennifer Garvey Berger - The Mental Habits of Effective Leaders](https://fs.blog/jennifer-garvey-berger/) 
+  * There is a lot here.  I'm going to have to spend some time either re-listening or reading the material discussed.  She has (several books on Amazon)[https://www.amazon.com/Jennifer-Garvey-Berger/e/B005GY5EG0], and sadly none of them at my digital library.  I'll need to think on it a bit.
+  * The discussion is around how it is that you continue to grow.  What are the mindsets and how do you work through those.  Given that's really what I'm trying to do with this, I might just have to invest in it.
 
 ## Good, Not Great
 
