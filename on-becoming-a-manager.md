@@ -1,6 +1,6 @@
 # On Becoming a Manager
 
-There are a lot of different paths to become a manager, but very rarely does it start straight out of school as a manager.  So, what do you need to do to become a **good** manager?  Who the heck knows, but I'll at least give my thoughts, from a very narrow band of experience.  The particular lense I'm going to use, because it's the one I know the best and have the most experience with is, "How do you transition from being a good technologist to a good manager?"
+There are a lot of different paths to become a manager, but very rarely does it start straight out of school as a manager.  So, what do you need to do to become a **good** manager?  Who the heck knows, but I'll at least give my thoughts, from a very narrow band of experience.  The particular lens I'm going to use, because it's the one I know the best and have the most experience with is, "How do you transition from being a good technologist to a good manager?"
 
 # Setting the Stage
 
@@ -15,7 +15,7 @@ Let's summarize.
 
 I'm working very, very, very hard at trying to express things, not as absolutes, but as percentages.  With that background:
 
-If you are not going to have a passion at helping people grow and develop, you absolutely should not be a manager.  Full stop.
+* If you are not going to have a passion at helping people grow and develop, you absolutely should not be a manager.  Full stop.
 
 You need to recognize, your job as a manager is to help people grow.  Yes, you'll have to balance business needs, and day to day activities, but those are the modifiers, not motivation.  
 

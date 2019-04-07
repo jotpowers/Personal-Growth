@@ -26,6 +26,8 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * 8/28/18 - [Elad Gil - How to Identify Interesting Markets](http://investorfieldguide.com/elad/)
 * 11/13/18 - [Cliff Asness - The Past, The Present & Future of Quant](http://investorfieldguide.com/asness/)
 * 12/4/18 - [Maureen Chiquet - Leadership Through Hard Conversations](http://investorfieldguide.com/maureen/)
+* Need to fill in - Annie Duke again.  
+  * I ended up listening to two Annie Duke podcasts pretty close to each other (even though they were recorded roughly a year apart).  I expected to hear a lot of repetition.  I was pleasantly surprised, which is why you now see two Annie Duke episodes on my "Must Listen" list.
 
 ### The Knowledge Project - Shane Parrish
 
