@@ -24,6 +24,7 @@ You need to recognize, your job as a manager is to help people grow.  Yes, you'l
 The career road is littered with the corpses of the careers of people who could not transition from Individual Contributor (IC) to manager.  Why is that?
 
 * Ego
+
   Ok, it might not actually be ego, but development.  You are good at what you do.  Heck, you might be great at what you do.  All of that success is built on what you can personally do and control.  Suddenly, that is taken from you.  Your success isn't based on what you can do personally, but what your team can do.  One of the failure modes is to just say "Ok, I'll do everyone's work.  I'm good enough."  If you do this, you will fail.  
 
   Additionally, a lot of your personal self-worth is tied up in what you accomplish.  This means when you go some period of time without getting "real work done", you will be frustrated, and frustrated does not make for useful or productive.  You're going to have to come to grips with this.
