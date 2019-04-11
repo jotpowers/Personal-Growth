@@ -29,7 +29,7 @@ These are in no particular order, so don't make too much of it
   * This is likely the book on the list that the fewest people have heard about.  I don't even remember how it got on my radar, but it is foundational.  I actually built a presentation based off of this, for software systems.  The presentation is built with the idea that, well, I'm going to be presenting it, so there aren't a lot of notes.  Let me know if there is demand to improve that, otherwise here is [Jot's presentation on Normal Accidents and how it pertains to large scale internet systems and software development](References/2017-jot-normal-accidents.pptx). 
   * Summary:  If you have a complex, tightly coupled system, you are going to have accidents.  They aren't going to be extraordinary, they will be normal.  In this context it evaluated nuclear power plants, and the realizations of the inevitability of issues should be eye opening.
 * Outsiders - William Thorndike
-* <a name="Superforecasting>Superforecasting</a> - Philip Tetlock
+* <a name="Superforecasting">Superforecasting</a> - Philip Tetlock
   * Every time I hear someone say "this is going to happen" or "this won't happen" or "there is an X% chance of Y happening", I think back to this book.  I also think 98% of the time people haven't read it. <sup>[1](References/notes.md)</sup>
 * Thinking, Fast and Slow - Daniel Kahneman
 * Team of Teams - General Stanley McCrystal
