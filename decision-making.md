@@ -14,7 +14,7 @@ This seems remarkably simple, but chances are you've never done this.  (I know I
 
 # Want To Bet?
 
-From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [podcasts.md#annieduke1](pod)[podcasts.md#annieduke2](casts).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
+From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [pod](podcasts.md#annieduke1)[casts](podcasts.md#annieduke2).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
 
 One of the important pieces out of this is to recognize that (almost) all decisions are made with imperfect information.   Given that, your ability to have 100% correct decisions and outcomes is impossible.  (It's why poker is a great teaching tool).
 
