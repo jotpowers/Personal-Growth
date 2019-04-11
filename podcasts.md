@@ -68,7 +68,7 @@ A ton of very short episodes.  I find them really interesting, but in a trivia k
 #### Must listen to episodes
 
 * 6/30/11 - [Dr. Gary Kaplan - The Blue Yarn](https://99percentinvisible.org/episode/episode-30-the-blue-yarn-download-embed-share/)
-  * I have no idea why.  :)
+  * Incredibly short analysis of how using *lean* to evaluate the patient journey improved a hospital.  Not just the patient experience and outcomes, but the profitability of a hospital.  If you can't spare the 7-15 minutes, skip a few minutes of Netflix and listen to this instead.
 
 ### Marketplace - Kai Ryssdal
 
