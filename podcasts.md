@@ -26,7 +26,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * 8/28/18 - [Elad Gil - How to Identify Interesting Markets](http://investorfieldguide.com/elad/)
 * 11/13/18 - [Cliff Asness - The Past, The Present & Future of Quant](http://investorfieldguide.com/asness/)
 * 12/4/18 - [Maureen Chiquet - Leadership Through Hard Conversations](http://investorfieldguide.com/maureen/)
-* Need to fill in - Annie Duke again.  
+* <a name="annieduke1">Need to fill in - Annie Duke again.  </a>
   * I ended up listening to two Annie Duke podcasts pretty close to each other (even though they were recorded roughly a year apart).  I expected to hear a lot of repetition.  I was pleasantly surprised, which is why you now see two Annie Duke episodes on my "Must Listen" list.
 
 ### The Knowledge Project - Shane Parrish
@@ -41,7 +41,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * 11/1/17 - [Susan Cain - Leading the "Quiet Revolution"](https://fs.blog/susan-cain/)
 * 1/3/18 - [Chris Voss - The Art of Letting Other People Have Your Way](https://fs.blog/2018/01/chris-voss/)
 * 7/11/18 - [William MacAskill - The Science of Doing Good](https://fs.blog/william-macaskill/)
-* 7/24/18 - [Annie Duke - Getting Better by Being Wrong](https://fs.blog/annie-duke/)
+* <a name="annieduke2">7/24/18</a> - [Annie Duke - Getting Better by Being Wrong](https://fs.blog/annie-duke/)
   * Build a decision group
   * Think in statistics
   * Do not confuse outcomes with decision making
