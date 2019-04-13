@@ -14,7 +14,7 @@ This seems remarkably simple, but chances are you've never done this.  (I know I
 
 # Want To Bet?
 
-From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [pod](podcasts.md#annieduke1)[casts](podcasts.md#annieduke2).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
+From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [podcast](podcasts.md#annieduke1)[(s)](podcasts.md#annieduke2).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
 
 One of the important pieces out of this is to recognize that (almost) all decisions are made with imperfect information.   Given that, your ability to have 100% correct decisions and outcomes is impossible.  (It's why poker is a great teaching tool).
 
@@ -34,7 +34,10 @@ This transitions into...
 
 All of this is great, but unless you have a process to review, analyze and try to improve, it's all just touchy-feely new age, shakra, crystal, aura fun.  So, what you need is a "decision journal".  This came to me from [Shane Parrish's Farnam Street](https://fs.blog/2014/02/decision-journal/).  One of only two podcasts I've really latched onto and one of only a couple of emails I voluntarily receive and don't mark spam.
 
-I'm still early in this journey.  My first process was to use a version of his template and my [Rocketbook](https://getrocketbook.com).  But I still struggled with how I was going to do longer term analytics.   I thought about an excel spreadsheet and ... but my current iterations is a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdY4lUT9Q9fn4VTXTXu5pZJgRsNg_mwQkT_pMb48DLipsOd3A/viewform).  (That link might even work.  The idea is to allow you to simply copy the form and use for yourself).  
+I'm still early in this journey.  My first process was to use a version of his template and my [Rocketbook](https://getrocketbook.com).  But I still struggled with how I was going to do longer term analytics.   I thought about an excel spreadsheet and ... but my current iterations is a [Google Form](https://docs.google.com/spreadsheets/d/1wb5Qgc_0O2AxtemtvajVXAISAKHI1720RmpOgonKJMQ/copy).  To use this form:
+
+  1. Click on the link and make a copy
+  2. Then go to Form and either "Edit form" or "Go to live form" and make it  your own.
 
 So now, I have a way to do analytics and feedback on my decisions.
 
