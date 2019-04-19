@@ -42,9 +42,30 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
   * Are there negative screens?
     * Job hoppers.  People who don't stick with things over 18 months.
   * Innovation is never the job of one organization
+  * Be willing to say "No."
+    * You need to realize that as you move on in life, you want to help, but by doing one thing you can not do another.
+    * People are generally pretty receptive to it, as long as you are thoughtful about it.
+    * Be protective of your time.
+    * Don't try to satisfy all comers.
 * <a name="boyd">4/11/17</a> - [Boyd Varty - The Art of Tracking](http://investorfieldguide.com/boyd/)
   * Ok, this one is a bit out there.  I think Patrick is a little too caught up in the mystique, and I think it's a little too "soft" for me.  But still, there are things here that are important.
 * <a name="danny">4/25/17</a> - [Danny Moses - The Big Short and Beyond](http://investorfieldguide.com/danny/)
+  * A discussion on how people figured out in real time how to profit from the beginnings of the Great Recession (aka mortgage backed securities.)  The book is "The Big Short".
+  * What are the most common traits if you were going to hire a 20-23 year old?
+    * Be an out of the box thinker
+      * It's not so much being cynical as being skeptical
+        * Don't just rely on people to tell you that you're right.  You want people who tell you when you're wrong.
+      * People who want to succeed because they're "smart" as opposed to people who just want to learn and do.  Focus on people with hunger versus goals.
+    * Integrity  
+      * You can't judge meeting someone for the first time, but you can see it in their life
+  * History on how it happened and how you could see it happening from the math
+    * You could see that the cost on the shorts was more than simply doing the credit default swaps
+  * Rise and Fall of Long Term Capital by Lowenstien
+    * No trade is as good as it appears
+    * Leverage will always bury you in the end
+    * Egos always get in the way of a good story
+    * How do people get paid?  Selling people warranties at a register?  In the end these are all 'ill-gotten gains' and in the end are not sustainable long-term.
+  * The use of non-GAAP can not work long term.  Over S&P 500 is trading over 20 on a GAAP basis.  
 * <a name="salem">5/23/17</a> - [David Salem - The Art of Asset Alocation](http://investorfieldguide.com/salem/)
 * <a name="aay">7/5/17</a> - [Patrick O'Shaughnessy - Top Ten Lessons After Almost a Year](http://investorfieldguide.com/lessons-learned-after-almost-a-year/)
 * <a name="urban">10/17/17</a> - [Tim Urban - Grand Theft Life](http://investorfieldguide.com/urban/)
