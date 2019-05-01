@@ -21,7 +21,7 @@ But, I'm not very good at it.  In races my goal is to be be in the top 50% of th
 
 Looking at this one way, you could perceive it as coming from a place of humility.  It assumes that you're just bad at what you do.  But in fact, I think the opposite is true and actually Dunning-Krueger also explains this.  Their same study says:
 
-  Roughly, participants who found tasks to be easy erroneously presumed that the tasks also must be easy for others; in other words, they assumed others were as competent as, if not more competent than, themselves.[1]
+> "Roughly, participants who found tasks to be easy erroneously presumed that the tasks also must be easy for others; in other words, they assumed others were as competent as, if not more competent than, themselves."
 
 You'll notice that my assumption, when placed in a different light could also be phrased as:
 
@@ -32,11 +32,11 @@ Which sounds a whole lot less humble.
 
 And this is where I think we all have to work to be better.   In particular, I think we all need to practice at coming at all places from a place of humility.  One piece of writing that has really struck me is [David Alm's](http://www.davidgalm.com/), [An Elite State of Mind](http://www.runnersworld.com/race-training/an-elite-state-of-mind).  It describes his experience as a 'pedestrian' runner.  His personal record for the marathon is 2:49 and for a 5k is 16:26.  Both of which are only slightly more than half of my personal bests.  In other words, he's fast.  In the local running scene this is what some of his peers advised him:
 
-"[...] another runner whose race times at shorter distances were nearly identical to mine casually suggested that I focus on ultras instead. His reasoning: "Those guys aren't very fast."'
+> "[...] another runner whose race times at shorter distances were nearly identical to mine casually suggested that I focus on ultras instead. His reasoning: "Those guys aren't very fast."'
 
 But he had a once in a lifetime opportunity.  He won a local 5k in 17:07.  In his own words
 
-"Plenty of local runners could have beaten me, had they shown up."
+> "Plenty of local runners could have beaten me, had they shown up."
 
 The prize for winning that race was an all-expenses-paid trip to race the Modesto Carrion Half Marathon in Juncos, Puerto Rico.  He was one of only 12 people invited to the race and the only American.  And the only non-professional.  These people were the real deal.  Professional Kenyan runners.  I suggest you read the whole article, but David struggles with the idea that he'll embarrass himself or lose the respect of the other 11.  Some of these men were Olympians with half marathon times in the 61 or 62 minutes.  David 'over-cooks' himself in the half marathon and had his worst performance ever.  The result of that from the professionals is nothing but support.  The winner of the race is cheering for David to finish.  None of them look down on him for his performance.
 
