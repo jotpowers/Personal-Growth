@@ -24,7 +24,7 @@ and finally...
 
 Really think about these things and start writing down your answers.
 
-### Personal example
+#### Personal example
 
 It probably helps to give an example, so here is the one I use the most.
 
