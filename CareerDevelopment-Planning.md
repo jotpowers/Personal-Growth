@@ -24,6 +24,18 @@ and finally...
 
 Really think about these things and start writing down your answers.
 
+### Personal example
+
+It probably helps to give an example, so here is the one I use the most.
+
+> I get emotional satisfaction out of doing things that I think other people could do if they were just willing to do the hard and boring work, but I know they're not.
+
+There are a bunch of caveats around this, but this shows up in many ways in my life.  I enjoy endurance sports (e.g. running, triathlon) even though I'm not particularly good at them, precisely because of this.  I think almost anyone could do them, but they don't.  (The other lessons I take from this are covered in a bit more depth in [The Conceit of Speed](conceit-of-speed.md) ).
+
+This same thing is true in work.  I love the projects that solve a structural problem that isn't "sexy" but is important.  Other people don't want to do it, because it will require tenacity and a certain amount of tenacity and grit that others avoid.  An example of this is spending weeks writing code to eliminate a system that no one is complaining about but has occasional errors and could save people 2-3 minutes a time.  Over the course of years, it's a huge savings that brings me satisfaction.
+
+Or maybe it's a system that always has problems because it is so complex.  Setting it as an organizational goal to go fix it and untangle it, is normally a long process and you have to be able to explain to people with passion and reason why it's important.  I enjoy those projects and wins.
+
 ### Why do we do this?
 It is important to have a longer term plan so that you make sure that you're going in a direction strategically that makes sense.  
 

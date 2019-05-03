@@ -15,8 +15,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
   * Discussion on activism
 * <a name="egan">1/3/17</a> - [Dan Egan - Designing Better Decisions](http://investorfieldguide.com/egan/)
 * <a name="joe">2/7/17</a> - [Joe Mansueto - Lessons from the Founder of Morningstar](http://investorfieldguide.com/joe/)
-  * Simplify.  Simplify.  Simplify.
-  * Heuristic around transaction cost:  Money.  Time.  Effort.  Cleanest way to setup a business to to reduce that transaction cost.
+  Summarized bullets.  More details are over in [References](References/notes.md#3)
   * Discussion on "float".  How can you use money you have today to fund your business tomorrow.
   * Preference of of repurchase over dividend.  I think this is a key discussion.  Do you have discipline in understanding what the impact to your shareholders is, or not?  Simple answer is not the correct answer. 
   * Management style:
@@ -25,27 +24,15 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
     * Delegate to those people
     * Give people autonomy 
     * People get more job satisfaction if they can make decisions in their domain
-  * What to do as a leader:
-    * At the beginning I'm doing everything:  programming, hiring the leaders, doing the ad copy
-    * But quickly you need to realize your goals are to build an major enterprise, and to do that you have to hire a team.
-      * Step out of "how do you do that"
-      * Learn as a leader how do you grow?  How do you handle acquisitions?  How do you do business abroad?
-  * Basic style is still the same:
-      * Hire great people
-      * Delegate
   * What are common traits you look for in hiring?
-    * Single most important thing you do
-    * Grow talent from within
     * People who like to learn
     * Demonstrated record of success.  There are a lot of bright people who are idle.
-  * Look at Grit by Angela Duckworth
   * Are there negative screens?
     * Job hoppers.  People who don't stick with things over 18 months.
   * Innovation is never the job of one organization
   * Be willing to say "No."
     * You need to realize that as you move on in life, you want to help, but by doing one thing you can not do another.
     * People are generally pretty receptive to it, as long as you are thoughtful about it.
-    * Be protective of your time.
     * Don't try to satisfy all comers.
 * <a name="boyd">4/11/17</a> - [Boyd Varty - The Art of Tracking](http://investorfieldguide.com/boyd/)
   * Ok, this one is a bit out there.  I think Patrick is a little too caught up in the mystique, and I think it's a little too "soft" for me.  But still, there are things here that are important.
