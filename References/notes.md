@@ -38,3 +38,21 @@
     * People are generally pretty receptive to it, as long as you are thoughtful about it.
     * Be protective of your time.
     * Don't try to satisfy all comers.
+
+<a name="4">4.</a> These are my more detailed notes for this podcast.  I wrote them out, but they're too long for the podcast page itself, but I think I'll still want to reference them, so including them here.
+
+  * What are the most common traits if you were going to hire a 20-23 year old?
+    * Be an out of the box thinker
+      * It's not so much being cynical as being skeptical
+        * Don't just rely on people to tell you that you're right.  You want people who tell you when you're wrong.
+      * People who want to succeed because they're "smart" as opposed to people who just want to learn and do.  Focus on people with hunger versus goals.
+    * Integrity
+      * You can't judge meeting someone for the first time, but you can see it in their life
+  * History on how it happened and how you could see it happening from the math
+    * You could see that the cost on the shorts was more than simply doing the credit default swaps
+  * Rise and Fall of Long Term Capital by Lowenstien
+    * No trade is as good as it appears
+    * Leverage will always bury you in the end
+    * Egos always get in the way of a good story
+    * How do people get paid?  Selling people warranties at a register?  In the end these are all 'ill-gotten gains' and in the end are not sustainable long-term.
+  * The use of non-GAAP can not work long term.  Over S&P 500 is trading over 20 on a GAAP basis.
