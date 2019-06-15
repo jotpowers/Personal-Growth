@@ -34,7 +34,7 @@ This transitions into...
 
 All of this is great, but unless you have a process to review, analyze and try to improve, it's all just touchy-feely new age, shakra, crystal, aura fun.  So, what you need is a "decision journal".  This came to me from [Shane Parrish's Farnam Street](https://fs.blog/2014/02/decision-journal/).  One of only two podcasts I've really latched onto and one of only a couple of emails I voluntarily receive and don't mark spam.
 
-I'm still early in this journey.  My first process was to use a version of his template and my [Rocketbook](https://getrocketbook.com).  But I still struggled with how I was going to do longer term analytics.   I thought about an excel spreadsheet and ... but my current iterations is a [Google Form](https://docs.google.com/spreadsheets/d/1wb5Qgc_0O2AxtemtvajVXAISAKHI1720RmpOgonKJMQ/copy).  To use this form:
+I'm still early in this journey.  My first process was to use a version of his template and my [Rocketbook](https://getrocketbook.com).  But I still struggled with how I was going to do longer term analytics.   I thought about an excel spreadsheet and ... but my current iterations is a [Google Form](https://docs.google.com/forms/d/1UzjtdeQo8oO-jCzDoAvJJ9pVJUqH7q7OXNAmP8Kk_pY/copy).  To use this form:
 
   1. Click on the link and make a copy
   2. Then go to Form and either "Edit form" or "Go to live form" and make it  your own.
