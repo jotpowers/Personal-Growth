@@ -51,6 +51,21 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * <a name="salem">5/23/17</a> - [David Salem - The Art of Asset Alocation](http://investorfieldguide.com/salem/)
 * <a name="aay">7/5/17</a> - [Patrick O'Shaughnessy - Top Ten Lessons After Almost a Year](http://investorfieldguide.com/lessons-learned-after-almost-a-year/)
 * <a name="urban">10/17/17</a> - [Tim Urban - Grand Theft Life](http://investorfieldguide.com/urban/)
+  Summarized bullets.  More details are over in [References](References/notes.md#5)
+  * Cook versus chef  (cooks follow recipes, chefs experiment and create them)
+    * Objective of Tesla's existence: Accelerate the advent of a sustainable energy world
+    * Objective of SpaceX's existence: Reduce cost of space travel so humanity can be a spacefaring race and make us a multiplanetary civilization
+    * Objective of Neuralink: Prevent AI from becoming the "other".  Humans become AI.  It will be a a third system in your brain that works with the existing limbic and frontal cortex systems.  High bandwidth between your brain and machines.
+    * Why is it that Elon is able to do what he can do?
+      * It's about how he thinks and reasons.  It is not about being smart and rich and driven, because there are thousands of people who fit that criteria.
+        * Reason from first principles instead of reasoning from analogy
+          * Most people reason from analogy because it's an evolutionary adaptation to create a shortcut
+        * Because he reasons from first principles he will push through all the reasons that people think things can not be done because the first principles say it can be done.
+        * People want to fit in, but that's something that you can easily reason past.  The key is just the self-awareness to understand your own tribal psychology and the delusion that comes along with it and realizing that conventional wisdom is now wisdom for a reality that doesn't exist anymore.
+          * Conventional wisdowm is normally wrong.
+  * To have a plan to succeed long term you need to pretend that everyone is going to be selfish forever and make it so that is part of the key to your success.  In other words, don't plan on people changing for you to be successful.  Rely on them staying the same.
+  * "Grand Theft Life" - People would be more successful and happier if they could breakaway from the fear of consequences that are more tribal than real
+  * Knowledge is a tree.  If you don't have the trunk when you get knowledge that is a leaf or a branch it will simply fall, because you don't have context to anchor it
 * <a name="attialive">3/27/18</a> - [Peter Attia - Dinner Series - *Health focus*](http://investorfieldguide.com/attialive/)
 * <a name="reece">6/12/18</a> - [Michael Recce - Tim Cook's Dashboard](http://investorfieldguide.com/reece/)
 * <a name="balchunas">6/26/18</a> - [Eric Balchunas - The Past, Present & Future of ETFs](http://investorfieldguide.com/balchunas/)
