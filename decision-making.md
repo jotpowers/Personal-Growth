@@ -2,6 +2,17 @@
 
 I've been spending a lot of time recently reading and thinking about decision making.  How can I get better at it?  What is even the definition of "it"?  (Hmm... maybe I should be in politics).  The result of this is a distillation of several sources into what I'm trying to build my process and system to be.
 
+# How People Make Decisions
+
+Interestingly enough, how people make decisions isn't necessarily straight forward.  There are generally three ways that people make decisions, recognizing of course, that these aren't discrete, but ranges.  Which is to say, there is a continuium between them that the decision process can fall into.  What is vitally important to recognize is that most people will rationalize this decision process after the fact to make it fit their internal narrative.
+
+1. Tribal
+  This is the most basic of the decision making processes.  For a vast majority of our history, the best way to ensure your success and survival was to be a part of a tribe.  Thus, being included in that tribe was a goal, and we've optimized for it.  In this system, you are more likely to make decisions that you think align with your self identified tribe.  This process explains a large portion of the U.S. political landscape, and probably the landscapes of politics almost everywhere.  You see it used very effectively across cultures and times, but a leader simply finding a marginalized group to vilify in order to create a "tribe" that people will self-identify with.  It also bleeds into ...
+2. Good vs Evil
+  Here you make decisions based on what is morally correct or wrong.  This sounds much more palatable, but still is very subjective.  The obvious examples of this are based in religion.  Since religion is the basis for some views on values, if there is a decision that might be against the religious views, it can be an "evil" that influences decisions.
+3. Rational
+  Take the observable facts and outcomes, and determine the best way to maximize your chances of favorable outcomes that meet the objectives.  This last one is what I'm focusing on in this document.
+
 # Quantifying Decisions
 
 My first noodling on the subject came from reading [Superforecasting](books.md#Superforecasting).  It's on my "must read" list for a reason.  But, the key here is to look at how people who are good at forecasting (which is just trying to estimate the outcomes that could impact your decision making) do it.  You should read the whole book, it's remarkably well written in a bog pit of business books, but if I were to summarize, here is what it would be:
