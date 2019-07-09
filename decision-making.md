@@ -2,6 +2,13 @@
 
 I've been spending a lot of time recently reading and thinking about decision making.  How can I get better at it?  What is even the definition of "it"?  (Hmm... maybe I should be in politics).  The result of this is a distillation of several sources into what I'm trying to build my process and system to be.
 
+# TOC
+*  [How People Make Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#how-people-make-decisions)
+*  [Quantifying Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#quantifying-decisions)
+*  [Want To Bet?](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#want-to-bet)
+*  [Decision Journal](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#decision-journal)
+*  [Mental Models](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#mental-models)
+
 # How People Make Decisions
 
 Interestingly enough, how people make decisions isn't necessarily straight forward.  There are generally three ways that people make decisions, recognizing of course, that these aren't discrete, but ranges.  Which is to say, there is a continuium between them that the decision process can fall into.  What is vitally important to recognize is that most people will rationalize this decision process after the fact to make it fit their internal narrative.
