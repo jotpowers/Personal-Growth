@@ -3,22 +3,11 @@
 I've been spending a lot of time recently reading and thinking about decision making.  How can I get better at it?  What is even the definition of "it"?  (Hmm... maybe I should be in politics).  The result of this is a distillation of several sources into what I'm trying to build my process and system to be.
 
 # TOC
-*  [How People Make Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#how-people-make-decisions)
 *  [Quantifying Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#quantifying-decisions)
 *  [Want To Bet?](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#want-to-bet)
 *  [Decision Journal](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#decision-journal)
 *  [Mental Models](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#mental-models)
-
-# How People Make Decisions
-
-Interestingly enough, how people make decisions isn't necessarily straight forward.  There are generally three ways that people make decisions, recognizing of course, that these aren't discrete, but ranges.  Which is to say, there is a continuium between them that the decision process can fall into.  What is vitally important to recognize is that most people will rationalize this decision process after the fact to make it fit their internal narrative.
-
-1. Tribal
-  This is the most basic of the decision making processes.  For a vast majority of our history, the best way to ensure your success and survival was to be a part of a tribe.  Thus, being included in that tribe was a goal, and we've optimized for it.  In this system, you are more likely to make decisions that you think align with your self identified tribe.  This process explains a large portion of the U.S. political landscape, and probably the landscapes of politics almost everywhere.  You see it used very effectively across cultures and times, but a leader simply finding a marginalized group to vilify in order to create a "tribe" that people will self-identify with.  It also bleeds into ...
-2. Good vs Evil
-  Here you make decisions based on what is morally correct or wrong.  This sounds much more palatable, but still is very subjective.  The obvious examples of this are based in religion.  Since religion is the basis for some views on values, if there is a decision that might be against the religious views, it can be an "evil" that influences decisions.
-3. Rational
-  Take the observable facts and outcomes, and determine the best way to maximize your chances of favorable outcomes that meet the objectives.  This last one is what I'm focusing on in this document.
+*  [How People Make Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#how-people-make-decisions)
 
 # Quantifying Decisions
 
@@ -63,3 +52,17 @@ So now, I have a way to do analytics and feedback on my decisions.
 
 Ok, I think Shane Parrish has gone overboard on this, but I also think (see above) that I could be wrong.  You can find a list of [109 Mental Models](https://fs.blog/mental-models/) (no, I'm not kidding) to consider.  I don't think all of these are useful, but different ones will likely be good for different people, so here you go.
 
+# Appendix
+
+Ok, not really, just a part of this that I thought was interesting, but as I thought more about it, I think it interferes with the flow of the documentation, so I moved it down here.
+
+# How People Make Decisions
+
+Interestingly enough, how people make decisions isn't necessarily straight forward.  There are generally three ways that people make decisions, recognizing of course, that these aren't discrete, but ranges.  Which is to say, there is a continuium between them that the decision process can fall into.  What is vitally important to recognize is that most people will rationalize this decision process after the fact to make it fit their internal narrative.
+
+1. Tribal
+  This is the most basic of the decision making processes.  For a vast majority of our history, the best way to ensure your success and survival was to be a part of a tribe.  Thus, being included in that tribe was a goal, and we've optimized for it.  In this system, you are more likely to make decisions that you think align with your self identified tribe.  This process explains a large portion of the U.S. political landscape, and probably the landscapes of politics almost everywhere.  You see it used very effectively across cultures and times, but a leader simply finding a marginalized group to vilify in order to create a "tribe" that people will self-identify with.  It also bleeds into ...
+2. Good vs Evil
+  Here you make decisions based on what is morally correct or wrong.  This sounds much more palatable, but still is very subjective.  The obvious examples of this are based in religion.  Since religion is the basis for some views on values, if there is a decision that might be against the religious views, it can be an "evil" that influences decisions.
+3. Rational
+  Take the observable facts and outcomes, and determine the best way to maximize your chances of favorable outcomes that meet the objectives.  This last one is what I'm focusing on in this document.
