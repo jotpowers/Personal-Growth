@@ -54,7 +54,7 @@ Ok, I think Shane Parrish has gone overboard on this, but I also think (see abov
 
 # Appendix
 
-Ok, not really, just a part of this that I thought was interesting, but as I thought more about it, I think it interferes with the flow of the documentation, so I moved it down here.
+Ok, not really, just a part of this that I thought was interesting, but as I thought more about it, I think it interferes with the flow of the documentation, so I moved it down here.  Also, I haven't done enough research on the actual state of science on this part to advocate for it as truth.
 
 # How People Make Decisions
 
