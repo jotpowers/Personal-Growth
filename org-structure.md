@@ -28,6 +28,8 @@ If this is the case, then what are the other organizational constraints?  Given 
 
 Now, with all of this, teams no greater than 8, and a maximum organization size of 150 we can now figure out the number of layers this organization could have.  5^3 is 125 and 8^3 is 512.  Going the other way, the cube root of 150 is ~5.3, which means that the largest effective "Us" organization is three layers of management deep.  Every line manager has ~5, and every level above that has 5.  That puts that layer at an org size of 25 individual contributors and 30 total (25 IC + 5 managers).  The layer above that also has 5, and that puts it at 125 IC and 155 total (30 * 5 + 5).
 
+![Idealized org chart](Images/org-chart.png)
+
 # The difference between structure and responsibilities 
 
 Now, until this point I've been talking about this as strictly a math problem, but I think the real world should probably get included eventually.  
