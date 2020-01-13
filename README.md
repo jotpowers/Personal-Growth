@@ -8,3 +8,4 @@ The beginnings of my open-sourced personal growth sources and musings.  For now 
 * [Becoming a Manager](on-becoming-a-manager.md) - Thoughts on transitioning from technologist to manager.
 * [Decision Making](decision-making.md) - Evolution and process for tracking and improving my (and in theory, your) decision making.
 * [Networking](networking.md) - Why you should build a network, and one method of "How" that might work for you.
+* [Boundaries on Organization Structure](org-structure.md) - Musings on inherent limitations of organizational structure
