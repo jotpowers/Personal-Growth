@@ -1,16 +1,16 @@
-One of the things I've been starting to think about organizational structure.  In particular, what is the boundary between "us" and "them".  
+One of the things I've been starting to think about is organizational structure.  In particular, what is the boundary between "us" and "them".  
 
 # "Us" versus "Them"
 
-There are some aspects of all companies that I'm 90% certain are related to the tribalism of humans, and are universal.  I've seen them in enough of the employee surveys across organizations and companies to believe they're universal.  Let's lay a few of them out there.
+There are some aspects of all companies that I'm 90% certain are related to the tribalism of humans.  I've seen them in enough of the employee surveys across organizations and companies to believe they're universal.  Let's lay a few of them out there.
 
 ## Our team is easy to work with.  Other teams are a nightmare to work with.
 
 This is incredibly important, because the only difference is perspective.  The other teams are saying the same thing about your team, unless you work **really** hard to change this.  Additionally, it means that the teams you view as difficult to work with, don't see themselves that way.  Why not?  That's a great question, and I don't have an answer, but the first step is recognizing the realities.  
 
-## If that <insert team in a different org> just reported into our org, we could fix this.
+## If <insert team in a different org> just reported into our org, we could fix this.
 
-This is going to be the fundamental question that leads to the rest of this document.  I've spent some time thinking about it, and realized that if you did that with every problem organization, pretty soon your org would be so large, that you've re-created the same silos.  Think about it for a minute, everyone is part of one company.  You all meet at the CEO/Board, so why do all large companies have this problem?  So I got to thinking about what is that inflection point?  No matter how much you like the leader of your organization, when does the size of their organization automatically make it so that they can't have a cohesive "it's all us" culture?
+This is going to be the fundamental question that leads to the rest of this document.  I've spent some time thinking about it, and realized that if you did that with every problem organization, pretty soon your org would be so large, that you've re-created the same silos.  Think about it for a minute. Everyone is part of one company.  You all meet at the CEO/Board, so why do all large companies have this problem?  So I got to thinking about what is that inflection point.  No matter how much you like the leader of your organization, when does the organization size make it so that they can't have a cohesive "it's all us" culture?
 
 Then I remember Dunbar's Number.
 
@@ -20,11 +20,11 @@ The [Wikipedia page](https://en.wikipedia.org/wiki/Dunbar%27s_number) exists for
 
 Now 150 is interesting because, independent of Dunbar's Number, there are [other examples](https://www.weforum.org/agenda/2016/12/the-weird-thing-that-happens-when-companies-get-bigger-than-150-people) of companies hitting this number and seeing dramatic changes in how the company operates. 
 
-There is some discussion on whether or not this number is different in non-survival groups, but there seem to be enough to independent confirmations that it's at least a credible hypothesis.
+There is some discussion on whether or not this number is different in non-survival groups, but there seem to be enough independent confirmations that it's at least a credible hypothesis.
 
 # Assertion: An "Us" organization is capped at ~150 people
 
-If this is the case, then what are the other organizational constraints?  Given that we're talking about software development, one constraint is going to be the size of our development teams.  Agile is the current way of the world, so what is an ideal scrum team?  Well, that's a team that develops all of it's commitments on time with nice burndown charts, but that isn't what I meant.  There is pretty strong consensus that it is between 3 and 9.  Separate from the scrum size, the consensus is that the best team sizes are between 5 and 8.  I actually think you can be a bit on the higher side (up to 10) if you have great line managers, but 8 is probably a good upper goal.
+If this is the case, then what are the other organizational constraints?  Given that we're talking about software development, one constraint is going to be the size of our development teams.  Agile is the current way of the world, so what is an ideal scrum team?  Well, that's a team that develops all of it's commitments on time with nice burndown charts, but that isn't what I meant.  There is pretty strong consensus that it has between 3 and 9 members.  Separate from the scrum size, the consensus is that the best team sizes are between 5 and 8.  I actually think you can be a bit on the higher side (up to 10) if you have great line managers, but 8 is probably a good upper goal.
 
 Now, with all of this, teams no greater than 8, and a maximum organization size of 150 we can now figure out the number of layers this organization could have.  5^3 is 125 and 8^3 is 512.  Going the other way, the cube root of 150 is ~5.3, which means that the largest effective "Us" organization is three layers of management deep.  Every line manager has ~5, and every level above that has 5.  That puts that layer at an org size of 25 individual contributors and 30 total (25 IC + 5 managers).  The layer above that also has 5, and that puts it at 125 IC and 155 total (30 * 5 + 5).
 
@@ -34,7 +34,7 @@ Now, with all of this, teams no greater than 8, and a maximum organization size 
 
 Now, until this point I've been talking about this as strictly a math problem, but I think the real world should probably get included eventually.  
 
-The reality is that organizations and teams exist in order to deliver business outcomes.  The idea that a manager only manages directly, and the next level up only manages indirectly, and that organizations will be constantly rebalanced [B-tree](https://en.wikipedia.org/wiki/B-tree) is fantasy.  But, what is important is to recognize that if you understand the upper-bounds you now have a framework for maximizing your organizational and achieve better results with less "political" churn.
+The reality is that organizations and teams exist in order to deliver business outcomes.  The idea that a manager only manages directly, and the next level up only manages indirectly, and that organizations will be constantly rebalanced [B-tree](https://en.wikipedia.org/wiki/B-tree) is fantasy.  But, what is important is to recognize that if you understand the upper-bounds you now have a framework for maximizing your organizational potential and achieve better results with less "political" churn.
 
 # The role of leadership and personal relationships
 
