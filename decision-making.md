@@ -52,6 +52,9 @@ So now, I have a way to do analytics and feedback on my decisions.
 
 Ok, I think Shane Parrish has gone overboard on this, but I also think (see above) that I could be wrong.  You can find a list of [109 Mental Models](https://fs.blog/mental-models/) (no, I'm not kidding) to consider.  I don't think all of these are useful, but different ones will likely be good for different people, so here you go.
 
+# Other Reading
+* [Howard Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)) wrote one of his well known memos titled [You Bet!](https://www.oaktreecapital.com/insights/howard-marks-memos) that also covers a lot of this ground.
+
 # Appendix
 
 Ok, not really, just a part of this that I thought was interesting, but as I thought more about it, I think it interferes with the flow of the documentation, so I moved it down here.  Also, I haven't done enough research on the actual state of science on this part to advocate for it as truth.
