@@ -33,6 +33,13 @@ These are in no particular order, so don't make too much of it
   * Every time I hear someone say "this is going to happen" or "this won't happen" or "there is an X% chance of Y happening", I think back to this book.  I also think 98% of the time people haven't read it. <sup>[1](References/notes.md)</sup>
 * Thinking, Fast and Slow - Daniel Kahneman
 * Team of Teams - General Stanley McCrystal
+* Checklist Manifesto - Atul Gawande
+  * I know what you're thinking.  "I get that checklists are useful, but my job is too complex, or too important."  Stop.  It.  Read this book.  It does a great example of pointing out a few things:
+    * It can work for any business.  If it's important enough when an airplane has stopped working, it'll work for you.
+    * If it works for surgeons it can work for you.
+    * The goal _isn't_ to have an end all/be all checklist.  It is also to provide a process for human communication.
+* Thinking in Bets - Annie Duke
+  * This is one of the foundational books for my [Decision Making](decision-making.md) philosophy, so it has to be here too.
 
 ## Meh Read
 
