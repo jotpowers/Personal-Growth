@@ -88,4 +88,4 @@
   * Objective of Neuralink: Prevent AI from becoming the "other".  Humans become AI.  It will be a a third system in your brain that works with the existing limbic and frontal cortex systems.  High bandwidth between your brain and machines.
   * Knowledge is a tree.  If you don't have the trunk when you get knowledge that is a leaf or a branch it will simply fall, because you don't have context to anchor it
 
-
+<a name="6">6.</a> Ok, just check yourself on the math.  I will generally write 8 pages and the final content will be 4.  So, it is (Actual - Standard)/Standard which is (8-4)/4 = 1 = 100%.  You can also say that the final product is 50% of my first draft (4-8)/8 = -.5 = -50%.
