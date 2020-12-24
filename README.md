@@ -1,3 +1,8 @@
+---
+id: overview
+title: Overview
+sidebar_label: Overview
+---
 # Personal Growth
 
 The beginnings of my open-sourced personal growth sources and musings.  For now it consists of a few documents.
