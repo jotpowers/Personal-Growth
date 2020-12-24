@@ -8,7 +8,7 @@ sidebar_label: Decision Making
 
 I've been spending a lot of time recently reading and thinking about decision making.  How can I get better at it?  What is even the definition of "it"?  (Hmm... maybe I should be in politics).  The result of this is a distillation of several sources into what I'm trying to build my process and system to be.
 
-# TOC
+## TOC
 *  [Quantifying Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#quantifying-decisions)
 *  [Want To Bet?](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#want-to-bet)
 *  [Decision Journal](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#decision-journal)
@@ -54,18 +54,18 @@ I'm still early in this journey.  My first process was to use a version of his t
 
 So now, I have a way to do analytics and feedback on my decisions.
 
-## Mental Models
+## Appendix
+
+### Mental Models
 
 Ok, I think Shane Parrish has gone overboard on this, but I also think (see above) that I could be wrong.  You can find a list of [109 Mental Models](https://fs.blog/mental-models/) (no, I'm not kidding) to consider.  I don't think all of these are useful, but different ones will likely be good for different people, so here you go.
 
-# Other Reading
+### Other Reading
 * [Howard Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)) wrote one of his well known memos titled [You Bet!](https://www.oaktreecapital.com/insights/howard-marks-memos) that also covers a lot of this ground.
 
-## Appendix
-
-Ok, not really, just a part of this that I thought was interesting, but as I thought more about it, I think it interferes with the flow of the documentation, so I moved it down here.  Also, I haven't done enough research on the actual state of science on this part to advocate for it as truth.
-
 ### How People Make Decisions
+
+**Note**:  Originallly I had this higher up but I think it interferes with the flow of the documentation, so I moved it down here.  Also, I haven't done enough research on the actual state of science on this part to advocate for it as truth.
 
 Interestingly enough, how people make decisions isn't necessarily straight forward.  There are generally three ways that people make decisions, recognizing of course, that these aren't discrete, but ranges.  Which is to say, there is a continuium between them that the decision process can fall into.  What is vitally important to recognize is that most people will rationalize this decision process after the fact to make it fit their internal narrative.
 
