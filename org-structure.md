@@ -40,7 +40,7 @@ The reality is that organizations and teams exist in order to deliver business o
 
 I do think that there are ways that these limits can be expanded, but I don't think it can be systemized/scaled.  If you have a particularly effective leader, or you have personal relationships that cross Dunbar boundaries, then the chances of reducing "Us vs Them" as well as increasing org size to the upper bounds are possible.  But, that relies on individual personalities and relationships and I just don't know how you can create those.  You can foster it, and it's why "team building" and "leadership offsites" are useful.  However, in my experience true close relationships and leadership like this are rare, so you shouldn't plan on it.
 
-## Conflict between Conway's Law
+### Conflict with Conway's Law
 
 [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) (roughly) says that organizations will design systems that match their organizational structures.  I think experience will show that this is true for our Dunbar limit as well.  Organizations will decide to build tools within their org because they will argue they have unique requirements, or this other tool doesn't do quite what they want, or ... any number of excuses.
 
