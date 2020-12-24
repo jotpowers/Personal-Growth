@@ -15,7 +15,7 @@ I've been spending a lot of time recently reading and thinking about decision ma
 *  [Mental Models](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#mental-models)
 *  [How People Make Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#how-people-make-decisions)
 
-# Quantifying Decisions
+## Quantifying Decisions
 
 My first noodling on the subject came from reading [Superforecasting](books.md#Superforecasting).  It's on my "must read" list for a reason.  But, the key here is to look at how people who are good at forecasting (which is just trying to estimate the outcomes that could impact your decision making) do it.  You should read the whole book, it's remarkably well written in a bog pit of business books, but if I were to summarize, here is what it would be:
 
@@ -25,7 +25,7 @@ My first noodling on the subject came from reading [Superforecasting](books.md#S
 
 This seems remarkably simple, but chances are you've never done this.  (I know I hadn't until recently).  From there the question is, do you...
 
-# Want To Bet?
+## Want To Bet?
 
 From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [podcast](podcasts.md#annieduke1)[(s)](podcasts.md#annieduke2).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
 
@@ -43,7 +43,7 @@ In order to start working on this within your group/org/company the phrase that 
 
 This transitions into...
 
-# Decision Journal
+## Decision Journal
 
 All of this is great, but unless you have a process to review, analyze and try to improve, it's all just touchy-feely new age, shakra, crystal, aura fun.  So, what you need is a "decision journal".  This came to me from [Shane Parrish's Farnam Street](https://fs.blog/2014/02/decision-journal/).  One of only two podcasts I've really latched onto and one of only a couple of emails I voluntarily receive and don't mark spam.
 
@@ -54,18 +54,18 @@ I'm still early in this journey.  My first process was to use a version of his t
 
 So now, I have a way to do analytics and feedback on my decisions.
 
-# Mental Models
+## Mental Models
 
 Ok, I think Shane Parrish has gone overboard on this, but I also think (see above) that I could be wrong.  You can find a list of [109 Mental Models](https://fs.blog/mental-models/) (no, I'm not kidding) to consider.  I don't think all of these are useful, but different ones will likely be good for different people, so here you go.
 
 # Other Reading
 * [Howard Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor)) wrote one of his well known memos titled [You Bet!](https://www.oaktreecapital.com/insights/howard-marks-memos) that also covers a lot of this ground.
 
-# Appendix
+## Appendix
 
 Ok, not really, just a part of this that I thought was interesting, but as I thought more about it, I think it interferes with the flow of the documentation, so I moved it down here.  Also, I haven't done enough research on the actual state of science on this part to advocate for it as truth.
 
-# How People Make Decisions
+### How People Make Decisions
 
 Interestingly enough, how people make decisions isn't necessarily straight forward.  There are generally three ways that people make decisions, recognizing of course, that these aren't discrete, but ranges.  Which is to say, there is a continuium between them that the decision process can fall into.  What is vitally important to recognize is that most people will rationalize this decision process after the fact to make it fit their internal narrative.
 
