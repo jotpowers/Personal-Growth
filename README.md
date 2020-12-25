@@ -15,3 +15,10 @@ The beginnings of my open-sourced personal growth sources and musings.  For now 
 * [Networking](networking.md) - Why you should build a network, and one method of "How" that might work for you.
 * [Boundaries on Organization Structure](org-structure.md) - Musings on inherent limitations of organizational structure
 * [Lessons Learned from Writing an Annual Christmas Letter](christmas-letter.md)
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![License image](assets/88x31.png)
