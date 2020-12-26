@@ -4,7 +4,7 @@ title: Book Reviews
 sidebar_label: Book Reviews
 ---
 
-![From Steward at https://www.flickr.com/photos/stewart/99129170/](bookshelf.jpg)
+![From Steward at https://www.flickr.com/photos/stewart/99129170/](assets/bookshelf.jpg)
 
 # Book list
 
