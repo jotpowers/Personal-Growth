@@ -1,5 +1,5 @@
 ---
-id: Networking 
+id: networking 
 title: How and Why to Build a Network
 sidebar_label: How and Why to Build a Network
 ---

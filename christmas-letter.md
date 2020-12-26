@@ -26,7 +26,7 @@ There are going to be parts of your (non-sober) content that you're going to lov
 
 ## Step 4:  Publish
 
-The letter that doesn't go out doesn't matter.
+The letter that doesn't go out, doesn't matter.
 
 ## Other lessons
 
