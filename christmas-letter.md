@@ -46,12 +46,12 @@ But, I've written a ton of content, and then we've decided on a theme, and a lot
 
 I'm tired of writing the letter (just like I'm tired out Out of Office messages, but that's a different post), but every year we get the feedback that people consider it part of their holiday ritual now.  They'll keep it sealed until they can sit down with the family and go through it.  This is not our parents and siblings, but neighors and acquantainces.  I feel like we can't take a year off.
 
-## This pattern is true for a lot of life and work
+### This pattern is true for a lot of life and work
 
 * Create content without inhibitions
 * Edit merciliessly
 * If it's important, make sure that every word/sentence/slide/photo/video has a purpose.  Not that it's there just because you didn't have the time or the discipline to make it better.
 
-### Samples
+## Samples
 
 Ok, I should provide some samples here, but it would be a lot of work to pull the PII data from them, so I'm sure I'll do it at some time, just not sure when.
