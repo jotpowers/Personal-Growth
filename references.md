@@ -5,11 +5,14 @@ sidebar_label: References
 ---
 # Various info that is interesting to me, but not generally interesting
 
+## 1
 <a name="1">1.</a> How did I come up with that number?  The book was released in 2015, and it's shockingly hard to find total number of sales for an individual book.  I'm sure the authors know, since they get paid based on that.  But still, I found [some data](https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/78257-print-unit-sales-up-in-2018-to-date.html) showing that January to September of 2018 there were 476,676,000 books sold.  The precision of the numbers is going to lead us astray, so I'll multiple 1.33 (to cover the rest of the year) and round up to 700,000,000 to cover a surge in holidays.  This represents a 2.5% increase over 2017, but let's set an upper bound.  If we assume 700,000,000 books a year from 2015 (publication date) and today we're at 2.8B books.  Now, in 2018 206,312,000 were adult non-fiction, which is where our book fits.  This represents 43% of total sales.  Now, sadly our book doesn't make the top 50 of most important business books, but Amazon has it as #25 in Business Planning & Forecasting, and #30,063 overall.  Now, we're going to assume Amazon has a big enough sample size to smooth out anomalies.  This is already going too long, so we're going to make a poor choice and say, worst case, upper bound, that all of the top 30,000 books over 4 years sell the same amount.  This is probably grossly wrong, as I expect the 80/20 rule to come into effect.  If we take 2.8 billion / 30k we're at 93000 per place.  So, for the 4 years that puts us at 360,000 copies.  Now, we could do more work, but if we go with a US population of [327 million for 2018](https://www.census.gov/popclock/) means we get a 1.14 percent chance that someone has read the book.  Close enough to 2% that I'm pretty confident of my 98% number being the maximum.  99% would probably be a better approximation.
 
+## 2
 <a name="2">2.</a> Ok, there are a few cases I can imagine.  The first is that an organization has a group they intend to jettison.  The existing manager was fired/left and they need someone to fill that role so they don't have to worry about it while the figure out strategy, where they know this group won't exist anymore.  Safe to say, you don't want to be in that role.  Second, you have a leader who is incompetent.  This one you can figure out.  Look who they have made managers in the past, and how successful they've been.  If that hasn't worked out on more than one occasion, recognize a few things.  First, they're bad at this.  Second, you're in a bad position.  Third, they're unlikely to be there long-term.
 
-<a name="3">3.</a> These are my more detailed notes for the [Joe Mansueto podcast](../podcasts.md#joe).  I wrote them out, but they're too long for the podcast page itself, but I think I'll still want to reference them, so including them here.
+## 3
+<a name="3">3.</a> These are my more detailed notes for the [Joe Mansueto podcast](podcasts.md#joe).  I wrote them out, but they're too long for the podcast page itself, but I think I'll still want to reference them, so including them here.
 
   * Simplify.  Simplify.  Simplify.
   * Heuristic around transaction cost:  Money.  Time.  Effort.  Cleanest way to setup a business to to reduce that transaction cost.
@@ -44,7 +47,8 @@ sidebar_label: References
     * Be protective of your time.
     * Don't try to satisfy all comers.
 
-<a name="4">4.</a> These are my more detailed notes for the [Danny Moses podcast)[../podcasts.md#danny].
+## 4
+<a name="4">4.</a> These are my more detailed notes for the [Danny Moses podcast)[podcasts.md#danny].
 
   * What are the most common traits if you were going to hire a 20-23 year old?
     * Be an out of the box thinker
@@ -62,7 +66,8 @@ sidebar_label: References
     * How do people get paid?  Selling people warranties at a register?  In the end these are all 'ill-gotten gains' and in the end are not sustainable long-term.
   * The use of non-GAAP can not work long term.  Over S&P 500 is trading over 20 on a GAAP basis.
 
-<a name="5">5.</a> These are my more detailed notes for the [Tim Urban podcast](../podcasts.md#urban).
+## 5
+<a name="5">5.</a> These are my more detailed notes for the [Tim Urban podcast](podcasts.md#urban).
   * Detailed discussion on _compounding_
   * Die progress unit.  How far to you have to go into the future in order to simply die due to the shock of the progress/change that has happened?
   * Artifical intelligence
@@ -93,4 +98,5 @@ sidebar_label: References
   * Objective of Neuralink: Prevent AI from becoming the "other".  Humans become AI.  It will be a a third system in your brain that works with the existing limbic and frontal cortex systems.  High bandwidth between your brain and machines.
   * Knowledge is a tree.  If you don't have the trunk when you get knowledge that is a leaf or a branch it will simply fall, because you don't have context to anchor it
 
+## 6
 <a name="6">6.</a> Ok, just check yourself on the math.  I will generally write 8 pages and the final content will be 4.  So, it is (Actual - Standard)/Standard which is (8-4)/4 = 1 = 100%.  You can also say that the final product is 50% of my first draft (4-8)/8 = -.5 = -50%.

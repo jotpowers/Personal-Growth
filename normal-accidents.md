@@ -6,5 +6,3 @@ This is a rabbit hole I went down in 2016/17.  There are a lot of interesting bo
 # Presentations
 Here are two versions of the PPT presentation.  I made them because I was presenting them, so they don't have the complete notes, but hopefully they stand on their own to some degree.
 
-* [Full presentation](References/normal-accidents/Normal-accidents.pptx)
-* [Shorter presentation](References/normal-accidents/2017-jot-normal-accidents.pptx)
