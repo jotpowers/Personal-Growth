@@ -6,7 +6,7 @@ sidebar_label: Lessons Learned from Writing an Annual Christmas Letter
 
 ![The muse](assets/tw-n-beer.jpg)
 
-It began a long time ago.  I'm not sure what the first year was, but probably around 2000, we started sending out an annual Christmas letter.  
+It began a long time ago.  I'm not sure what the first year was, but probably around 2000, we started sending out an annual holiday letter. Ok, so it's starting to turn into a "New Year Letter".
 
 Now, I'm sure you get all sorts of Christmas letters from people.  "Here is what the family did this year, in chronological and alphabetic order."  "Little Bobby and Big Joey are now Physicists."  One thing I can not stand is being boring.  So, I was determined, if I was going to write a Christmas letter it was going to be entertaining.  I think there are some great lessons in here, and then I think there are some things that are just about my personal dysfunctions.
 
