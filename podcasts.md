@@ -3,6 +3,9 @@ id: podcasts
 title: Podcast Reviews
 sidebar_label: Podcast Reviews
 ---
+
+![Logo vector created by freepik - www.freepik.com](assets/podcast.jpg)
+
 # Podcasts
 
 This is my favorite material for learning while I commute.  In particular, it's because there is no other way for me to access this material.  With audiobooks, I can still read the visualbooks versions of them.  But, finding good podcasts is hard.  So hard, that I actually haven't found very many that are useful at all.  So, I'm going to list them here, with the episodes.  This is actually a great forcing function for me, because now I'll have to go back through the ones that I said to myself "Oh shit, this is important" and re-listen.  From there I'll try to make notes of what it was I thought was important here.  This will also let me check if I just liked them because I was drinking at the time.
