@@ -14,6 +14,8 @@ I've been spending a lot of time recently reading and thinking about decision ma
 *  [Mental Models](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#mental-models)
 *  [How People Make Decisions](https://github.com/jotpowers/Personal-Growth/blob/master/decision-making.md#how-people-make-decisions)
 
+![Superforcasting](assets/super.jpg)
+
 ## Quantifying Decisions
 
 My first noodling on the subject came from reading [Superforecasting](books.md#Superforecasting).  It's on my "must read" list for a reason.  But, the key here is to look at how people who are good at forecasting (which is just trying to estimate the outcomes that could impact your decision making) do it.  You should read the whole book, it's remarkably well written in a bog pit of business books, but if I were to summarize, here is what it would be:
@@ -24,6 +26,7 @@ My first noodling on the subject came from reading [Superforecasting](books.md#S
 
 This seems remarkably simple, but chances are you've never done this.  (I know I hadn't until recently).  From there the question is, do you...
 
+![Thinking in Bets](assets/tib.jpg)
 ## Want To Bet?
 
 From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [podcast](podcasts.md#annieduke1)[(s)](podcasts.md#annieduke2).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
