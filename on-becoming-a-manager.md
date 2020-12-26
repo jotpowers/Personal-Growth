@@ -47,6 +47,6 @@ The career road is littered with the corpses of the careers of people who could 
 
   Organizations are the same.  Does one group not like another?  Is there some backstory you're not aware of?  Has there just been a management change?  What part of the organization?  Again, virtually infinite complexity.
 
-### Listen
+### Listening
 
   Often the job of an IC is to talk.  Be asked a question, provide a definitive answer (which is also wrong, but subject for a different section).  As a manager, you should work to limit the amount of times you dictate something or provide a definitive answer.  Sure, it has to happen, but if you focus on being a better listener, you'll likely end up being a more successful manager.

@@ -1,3 +1,11 @@
+---
+id: conceit
+title: Conceit of Speed
+sidebar_label: Conceit of Speed
+---
+
+![Lemons](assets/lemons.jpg)
+
 # Preface - Lemon Juice
 
 One of the things that has entered into popular culture is the Dunning-Kruger effect, or as I remember it, "The Lemon Juice Bandit".  
