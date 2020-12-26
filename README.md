@@ -3,6 +3,8 @@ id: pg-overview
 title: Overview
 sidebar_label: Overview
 ---
+![Your horizons](assets/daypano.jpg)
+
 # Personal Growth
 
 The beginnings of my open-sourced personal growth sources and musings.  For now it consists of a few documents.
