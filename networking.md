@@ -1,4 +1,8 @@
-# How and Why to Build a Network
+---
+id: Networking 
+title: How and Why to Build a Network
+sidebar_label: How and Why to Build a Network
+---
 
 One of the top pieces of career advice you will hear repeatedly is "Build your network".  Which is great advice like "Learn How to Influence" and "Earn More Money" and "Buy Low and Sell High".  In other words, great generic advice without any real value.  I'm going to try to lay out my thinking and process on this, hoping that maybe it resonates with a few other people.
 
