@@ -3,6 +3,9 @@ id: books
 title: Book Reviews
 sidebar_label: Book Reviews
 ---
+
+![From Steward at https://www.flickr.com/photos/stewart/99129170/](bookshelf.jpg)
+
 # Book list
 
 The number of self-help/business books out there is overwhelming.  This is the list of the ones I think are important.  If you disagree with this list, that's great, it just means we're not aligned on preferences/views.  In that case, the list of books I actively dislike, might be useful to you.
