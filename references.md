@@ -48,7 +48,7 @@ These are my more detailed notes for the [Joe Mansueto podcast](podcasts.md#joe)
     * Don't try to satisfy all comers.
 
 ## 4
-These are my more detailed notes for the [Danny Moses podcast)[podcasts.md#danny].
+These are my more detailed notes for the [Danny Moses podcast](podcasts.md#danny).
 
   * What are the most common traits if you were going to hire a 20-23 year old?
     * Be an out of the box thinker

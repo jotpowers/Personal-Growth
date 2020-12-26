@@ -14,16 +14,20 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 
 ## Favorites
 
-### Invest Like the Best - Patrick O'Shaughnessy
+## Invest Like the Best - Patrick O'Shaughnessy
 
    Yes, this is an investing podcast, so certain episodes I only find interesting because it's a space that I have [alot](https://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) of interest.  But the real value is in the exploration of ideas from people in investing.  So there are a ton of leadership and growth discussions that have little to do with investing.  This is probably responsible for 25% of the books that get added to my reading lists.
 
-#### Must listen to episodes
+### Must listen to episodes
 
   * Discussion on activism
-* <a name="egan">1/3/17</a> - [Dan Egan - Designing Better Decisions](http://investorfieldguide.com/egan/)
+
+### Dan Egan
+<a name="egan">1/3/17</a> - [Dan Egan - Designing Better Decisions](http://investorfieldguide.com/egan/)
+
+### Joe Mansueto
 * <a name="joe">2/7/17</a> - [Joe Mansueto - Lessons from the Founder of Morningstar](http://investorfieldguide.com/joe/)
-  Summarized bullets.  More details are over in [References](references.md)
+  Summarized bullets.  More details are over in [References](references.md#3)
   * Discussion on "float".  How can you use money you have today to fund your business tomorrow.
   * Preference of of repurchase over dividend.  I think this is a key discussion.  Do you have discipline in understanding what the impact to your shareholders is, or not?  Simple answer is not the correct answer. 
   * Management style:
@@ -42,10 +46,14 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
     * You need to realize that as you move on in life, you want to help, but by doing one thing you can not do another.
     * People are generally pretty receptive to it, as long as you are thoughtful about it.
     * Don't try to satisfy all comers.
+
+### Boyd Varty
 * <a name="boyd">4/11/17</a> - [Boyd Varty - The Art of Tracking](http://investorfieldguide.com/boyd/)
   * Ok, this one is a bit out there.  I think Patrick is a little too caught up in the mystique, and I think it's a little too "soft" for me.  But still, there are things here that are important.
+
+### Danny Moses
 * <a name="danny">4/25/17</a> - [Danny Moses - The Big Short and Beyond](http://investorfieldguide.com/danny/)
-  Summarized bullets.  More details are over in [References](references.md)
+  Summarized bullets.  More details are over in [References](references.md#4)
   * What are the most common traits if you were going to hire a 20-23 year old?
     * Be an out of the box thinker
       * It's not so much being cynical as being skeptical
@@ -56,11 +64,15 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
   * Rise and Fall of Long Term Capital by Lowenstien
     * No trade is as good as it appears
     * Leverage will always bury you in the end
+
+### David Salem
 * <a name="salem">5/23/17</a> - [David Salem - The Art of Asset Alocation](http://investorfieldguide.com/salem/)
+
+### Top 10 Lessons 
 * <a name="aay">7/5/17</a> - [Patrick O'Shaughnessy - Top Ten Lessons After Almost a Year](http://investorfieldguide.com/lessons-learned-after-almost-a-year/)
 * <a name="urban">10/17/17</a> - [Tim Urban - Grand Theft Life](http://investorfieldguide.com/urban/)
-  Summarized bullets.  More details are over in [References](references.md)
-  * Cook versus chef  (cooks follow recipes, chefs experiment and create them)
+  Summarized bullets.  More details are over in [References](references.md#5)
+  * Cook versus chef (cooks follow recipes, chefs experiment and create them)
     * Objective of Tesla's existence: Accelerate the advent of a sustainable energy world
     * Objective of SpaceX's existence: Reduce cost of space travel so humanity can be a spacefaring race and make us a multiplanetary civilization
     * Objective of Neuralink: Prevent AI from becoming the "other".  Humans become AI.  It will be a a third system in your brain that works with the existing limbic and frontal cortex systems.  High bandwidth between your brain and machines.
@@ -74,27 +86,54 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
   * To have a plan to succeed long term you need to pretend that everyone is going to be selfish forever and make it so that is part of the key to your success.  In other words, don't plan on people changing for you to be successful.  Rely on them staying the same.
   * "Grand Theft Life" - People would be more successful and happier if they could breakaway from the fear of consequences that are more tribal than real
   * Knowledge is a tree.  If you don't have the trunk when you get knowledge that is a leaf or a branch it will simply fall, because you don't have context to anchor it
+
+### Pater Attia
 * <a name="attialive">3/27/18</a> - [Peter Attia - Dinner Series - *Health focus*](http://investorfieldguide.com/attialive/)
+
+### Michael Recce
 * <a name="reece">6/12/18</a> - [Michael Recce - Tim Cook's Dashboard](http://investorfieldguide.com/reece/)
+
+### Eric Balchunas
 * <a name="balchunas">6/26/18</a> - [Eric Balchunas - The Past, Present & Future of ETFs](http://investorfieldguide.com/balchunas/)
+
+### Elad Gil
 * <a name="elad">8/28/18</a> - [Elad Gil - How to Identify Interesting Markets](http://investorfieldguide.com/elad/)
+
+### Cliff Asness
 * <a name="asness">11/13/18</a> - [Cliff Asness - The Past, The Present & Future of Quant](http://investorfieldguide.com/asness/)
+
+### Maureen Chique
 * <a name="maureen">12/4/18</a> - [Maureen Chiquet - Leadership Through Hard Conversations](http://investorfieldguide.com/maureen/)
+
+### Annie Duke
 * <a name="annieduke1">Need to fill in - Annie Duke again.  </a>
   * I ended up listening to two Annie Duke podcasts pretty close to each other (even though they were recorded roughly a year apart).  I expected to hear a lot of repetition.  I was pleasantly surprised, which is why you now see two Annie Duke episodes on my "Must Listen" list.
 
-### The Knowledge Project - Shane Parrish
+## The Knowledge Project - Shane Parrish
 
    This spans a wide range of people and topics, but I find that, more often than not, there are things that really make me think, and perhaps make me consider things in a different light. Also responsible for about 25% of my reading list.
 
-#### Must listen to episodes
+### Must listen to episodes
 
+### Morgan Housel
 * <a name="morgan-housel">10/24/16</a> - [Morgan Housel - Reading, Writing and Lifelong Learning](https://fs.blog/morgan-housel/)
+
+### Samuel Arbesman
 * <a name="samuel-arbesman">11/28/16</a> - [Samuel Arbesman - Future-Proof Your Knowledge](https://fs.blog/samuel-arbesman/)
+
+###  Roy Sutherland
 * <a name="rory-sutherland">5/30/17</a> - [Roy Sutherland - The Psychology of Advertising](https://fs.blog/rory-sutherland/)
+
+### Susan Cain
 * <a name="susan-cain">11/1/17</a> - [Susan Cain - Leading the "Quiet Revolution"](https://fs.blog/susan-cain/)
+
+### Chris Voss
 * <a name="chris-voss">1/3/18</a> - [Chris Voss - The Art of Letting Other People Have Your Way](https://fs.blog/2018/01/chris-voss/)
+
+### William MacAskill
 * <a name="william-macaskill">7/11/18</a> - [William MacAskill - The Science of Doing Good](https://fs.blog/william-macaskill/)
+
+### Annie Duke
 * <a name="annieduke2">7/24/18</a> - [Annie Duke - Getting Better by Being Wrong](https://fs.blog/annie-duke/)
   * Build a decision group
   * Think in statistics
@@ -103,6 +142,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
   * Cultures of improvement.  He discusses how we as people are bad at doing things that we can measure as being better and how hard that is.  He's a surgeon, and talks about the amount of mistakes in our systems that can kill people.  It is inevitable, but how do you work to improve that.  I think it has a huge benefit to a company.
   * The discussion of end-of-life healthcare and goals is something everyone should listen to.
   * Differences between coaches and mentors
+### Jennifer Garvey Berger
 * <a name="jennifer-garvey-berger">11/18?</a> - [Jennifer Garvey Berger - The Mental Habits of Effective Leaders](https://fs.blog/jennifer-garvey-berger/) 
   * There is a lot here.  I'm going to have to spend some time either re-listening or reading the material discussed.  She has (several books on Amazon)[https://www.amazon.com/Jennifer-Garvey-Berger/e/B005GY5EG0], and sadly none of them at my digital library.  I'll need to think on it a bit.
   * The discussion is around how it is that you continue to grow.  What are the mindsets and how do you work through those.  Given that's really what I'm trying to do with this, I might just have to invest in it.
@@ -119,8 +159,9 @@ Still, interesting subjects and perspectives.  I can't bring myself to listen to
 
 A ton of very short episodes.  I find them really interesting, but in a trivia kind of way, not in a "that will force me to rethink things" kind of way.  Still, entertaining, well produced, interesting episodes.  That's what you want sometimes.
 
-#### Must listen to episodes
+### Must listen to episodes
 
+### Dr. Gary Kaplan - The Blue Yarn
 * <a name="blue-yarn">6/30/11</a> - [Dr. Gary Kaplan - The Blue Yarn](https://99percentinvisible.org/episode/episode-30-the-blue-yarn-download-embed-share/)
   * Incredibly short analysis of how using *lean* to evaluate the patient journey improved a hospital.  Not just the patient experience and outcomes, but the profitability of a hospital.  If you can't spare the 7-15 minutes, skip a few minutes of Netflix and listen to this instead.
 
