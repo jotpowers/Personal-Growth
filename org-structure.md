@@ -4,6 +4,8 @@ title: Us vs. Them
 sidebar_label: Us vs. Them
 ---
 
+![Tribalism](assets/tribalism.jpg)
+
 One of the things I've been starting to think about is organizational structure.  In particular, what is the boundary between "us" and "them".  
 
 ## "Us" versus "Them"
