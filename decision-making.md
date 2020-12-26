@@ -27,7 +27,7 @@ My first noodling on the subject came from reading [Superforecasting](books.md#S
 This seems remarkably simple, but chances are you've never done this.  (I know I hadn't until recently).  From there the question is, do you...
 
 ![Thinking in Bets](assets/tib.jpg)
-## Want To Bet?
+## Wanna' Bet?
 
 From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [podcast](podcasts.md#annieduke1)[(s)](podcasts.md#annieduke2).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
 
