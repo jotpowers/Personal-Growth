@@ -23,7 +23,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
   * Discussion on activism
 * <a name="egan">1/3/17</a> - [Dan Egan - Designing Better Decisions](http://investorfieldguide.com/egan/)
 * <a name="joe">2/7/17</a> - [Joe Mansueto - Lessons from the Founder of Morningstar](http://investorfieldguide.com/joe/)
-  Summarized bullets.  More details are over in [References](References/notes.md#3)
+  Summarized bullets.  More details are over in [References](references.md#3)
   * Discussion on "float".  How can you use money you have today to fund your business tomorrow.
   * Preference of of repurchase over dividend.  I think this is a key discussion.  Do you have discipline in understanding what the impact to your shareholders is, or not?  Simple answer is not the correct answer. 
   * Management style:
@@ -45,7 +45,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * <a name="boyd">4/11/17</a> - [Boyd Varty - The Art of Tracking](http://investorfieldguide.com/boyd/)
   * Ok, this one is a bit out there.  I think Patrick is a little too caught up in the mystique, and I think it's a little too "soft" for me.  But still, there are things here that are important.
 * <a name="danny">4/25/17</a> - [Danny Moses - The Big Short and Beyond](http://investorfieldguide.com/danny/)
-  Summarized bullets.  More details are over in [References](References/notes.md#4)
+  Summarized bullets.  More details are over in [References](references.md#4)
   * What are the most common traits if you were going to hire a 20-23 year old?
     * Be an out of the box thinker
       * It's not so much being cynical as being skeptical
@@ -59,7 +59,7 @@ A quick metric for me on the quality of a podcast:  Do I have to listen to it at
 * <a name="salem">5/23/17</a> - [David Salem - The Art of Asset Alocation](http://investorfieldguide.com/salem/)
 * <a name="aay">7/5/17</a> - [Patrick O'Shaughnessy - Top Ten Lessons After Almost a Year](http://investorfieldguide.com/lessons-learned-after-almost-a-year/)
 * <a name="urban">10/17/17</a> - [Tim Urban - Grand Theft Life](http://investorfieldguide.com/urban/)
-  Summarized bullets.  More details are over in [References](References/notes.md#5)
+  Summarized bullets.  More details are over in [References](references.md#5)
   * Cook versus chef  (cooks follow recipes, chefs experiment and create them)
     * Objective of Tesla's existence: Accelerate the advent of a sustainable energy world
     * Objective of SpaceX's existence: Reduce cost of space travel so humanity can be a spacefaring race and make us a multiplanetary civilization

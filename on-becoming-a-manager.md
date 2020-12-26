@@ -4,7 +4,7 @@ There are a lot of different paths to become a manager, but very rarely does it 
 
 # Setting the Stage
 
-There are no cases I can imagine where a low performer has an opportunity to become a manager.<sup>[2](References/notes.md#2)</sup>  Given that, we're going to go with the premise that you are a high performer.  Additionally, you're a high performer with medium to high potential (which is to say, your current position is seen as not your terminal position).  
+There are no cases I can imagine where a low performer has an opportunity to become a manager.<sup>[2](references.md#2)</sup>  Given that, we're going to go with the premise that you are a high performer.  Additionally, you're a high performer with medium to high potential (which is to say, your current position is seen as not your terminal position).  
 
 Let's summarize.  
 * You have been rated a high performer

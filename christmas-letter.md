@@ -14,7 +14,7 @@ The goal of this is to just create content.  Lots of content.  You will throw a 
 
 The real question is "How do you remove inhibitions?"  That answer is simple and as old as civilization:  Alcohol.
 
-I take my list and a laptop and I go with my wife down to the [Tempe Festival of the Arts](https://www.tempefestivalofthearts.com/).  We wander around for a bit until I'm tired of wandering around.  Then I go to a brewery while she wanders around and I write pages of material.  I will generally have 100% more content than will appear in the final product.<sup>[6](References/notes.md#6)</sup>
+I take my list and a laptop and I go with my wife down to the [Tempe Festival of the Arts](https://www.tempefestivalofthearts.com/).  We wander around for a bit until I'm tired of wandering around.  Then I go to a brewery while she wanders around and I write pages of material.  I will generally have 100% more content than will appear in the final product.<sup>[6](references.md#6)</sup>
 
 # Step 3:  Edit mercilessly 
 

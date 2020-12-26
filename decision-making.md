@@ -4,7 +4,7 @@ title: Decision Making
 sidebar_label: Decision Making
 ---
 
-# Decision making
+![Decision making](decision-making.jpg)
 
 I've been spending a lot of time recently reading and thinking about decision making.  How can I get better at it?  What is even the definition of "it"?  (Hmm... maybe I should be in politics).  The result of this is a distillation of several sources into what I'm trying to build my process and system to be.
 
