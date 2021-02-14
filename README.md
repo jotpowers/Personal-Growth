@@ -9,7 +9,7 @@ sidebar_label: Overview
 
 The beginnings of my open-sourced personal growth sources and musings.  For now it consists of a few documents.
 
-> *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/ds/docs/introduction).  This is as a result of Vidit opening [this issue](https://github.com/jotpowers/College-Grads/issues/1). If you're reading this via Github Pages, then the bare repo is available [here](https://github.com/jotpowers/Personal-Growth).
+> *Note*:  If you're reading this via straight Github, it is also now available in an easier to read format at [jotpowers.github.io](https://jotpowers.github.io/).  This is as a result of Vidit opening [this issue](https://github.com/jotpowers/College-Grads/issues/1). If you're reading this via Github Pages, then the bare repo is available [here](https://github.com/jotpowers/Personal-Growth).
 
 * [Books](books.md) - Curated book list.  The Good, The Bad and the Ugly.
 * [Podcasts](podcasts.md) - Podcast list with in-depth list of specific episodes I think are interesting.
