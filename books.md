@@ -23,7 +23,7 @@ This kills me. Even at 2X they go too slow. I think *Team of Teams* was 12+ hour
 
 These are in no particular order, so don't make too much of it
 
-###Extreme Ownership - Jocko Willink and Leif Babin
+### Extreme Ownership - Jocko Willink and Leif Babin
   * This is a great book.  I do think it goes too heavily on the military side of things, and as a result will lose a large number of people who could benefit from it.  
   * Summary:  You need to own all of your outcomes.  Do not blame others.  Instead, figure out how you could have changed an outcome.  
   * Honestly, it won't always work.  You can't always get there.  But if you really work at this, you will be orders of magnitude better than the mean.
