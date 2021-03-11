@@ -50,7 +50,7 @@ I'm tired of writing the letter (just like I'm tired out Out of Office messages,
 
 * Create content without inhibitions
 * Edit merciliessly
-* If it's important, make sure that every word/sentence/slide/photo/video has a purpose.  Not that it's there just because you didn't have the time or the discipline to make it better.
+* If it's important, make sure that every word/sentence/slide/photo/video has a purpose.  Not that it's there just because you didn't have the time or the discipline to make it better.  (See: [Blaise Pascal](https://www.npr.org/sections/13.7/2014/02/03/270680304/this-could-have-been-shorter))
 
 ## Samples
 
