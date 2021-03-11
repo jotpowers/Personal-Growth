@@ -21,3 +21,7 @@ When I truly give the gift of feedback, I'm making myself vulnerable to your dis
 I've given feedback in the past where it wasn't earned.  It just creates resentfulness.
 
 Earn the gift.  Give the gift carefully.
+
+## 30 Years Later, Bluetooth is Still Horrible
+
+I just wish the same [guy](https://en.wikipedia.org/wiki/Gunpei_Yokoi) that designed the [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) had designed Bluetooth. 
