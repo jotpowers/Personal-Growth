@@ -25,3 +25,27 @@ Earn the gift.  Give the gift carefully.
 ## 30 Years Later, Bluetooth is Still Horrible
 
 I just wish the same [guy](https://en.wikipedia.org/wiki/Gunpei_Yokoi) that designed the [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) had designed Bluetooth.  Or how about the engineers behind the [Nokia 3210](https://en.wikipedia.org/wiki/Nokia_3210)?
+
+## Getting People to Change
+
+Sometimes you just have to wait for your ideas, to become their ideas.
+
+Which is to say, there are times you can be right but the people you are working with haven't had the time to process and internalize all of the facts or experiences.
+
+But, if you really want to be successful, when they finally unveil "their idea" and it was the same as yours from a month ago, the only appropriate response is:
+
+"That sounds like a good idea."
+
+You're going to want to say:  "I told you so." Resist.  Say it to yourself over a beer.  You'll know, and everything will be right with the universe.
+
+## What Your Boss Wants
+
+The best way to determine how your boss wants you to respond to their requests and interact with them, is to observe how they interact with their boss.  
+
+* Are they super-responsive and drop everything when they get an email?
+* Do they expect well polished Powerpoints?
+* Do they emphasize relationships over disagreement?
+* Do they prefer well engineered solutions or fast solutions?
+* Do they have their phone available on the weekends?
+
+
