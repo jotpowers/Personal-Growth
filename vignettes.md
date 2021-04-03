@@ -40,10 +40,11 @@ You're going to want to say:  "I told you so." Resist.  Say it to yourself over 
 
 ## What Your Boss Wants
 
-The best way to determine how your boss wants you to respond to their requests and interact with them, is to observe how they interact with their boss.  
+The best way to determine how your boss wants you to respond to their requests and interact with them, is to observe how they interact with their boss. In general it is an expression of their internal value system.
 
 * Are they super-responsive and drop everything when they get an email?
 * Do they expect well polished Powerpoints?
+* Do they like pineapple on their pizza?
 * Do they emphasize relationships over disagreement?
 * Do they prefer well engineered solutions or fast solutions?
 * Do they have their phone available on the weekends?
