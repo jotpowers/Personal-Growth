@@ -6,7 +6,7 @@ sidebar_label: Bite Sized Thoughts
 
 This is just a place for small things that I've thought about that don't deserve their own pages.  No reason to write content to just hit a minimum word count.
 
-## The Best Career Advice I've Ever Gotten
+## The Best Career Advice I've Ever Received
 
 "Find someone you trust.  Work on something important to them."  - Yannick Bercy (RIP)
 
