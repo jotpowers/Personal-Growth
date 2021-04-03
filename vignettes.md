@@ -3,6 +3,7 @@ id: vignettes
 title: Vignettes 
 sidebar_label: Bite Sized Thoughts
 ---
+![Bite sized](assets/bite-sized.jpg)
 
 This is just a place for small things that I've thought about that don't deserve their own pages.  No reason to write content to just hit a minimum word count.
 
