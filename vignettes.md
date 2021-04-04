@@ -45,8 +45,9 @@ The best way to determine how your boss wants you to respond to their requests a
 
 * Are they super-responsive and drop everything when they get an email?
 * Do they expect well polished Powerpoints?
-* Do they like pineapple on their pizza?
+* Do they value speeling nor grammar?
 * Do they emphasize relationships over disagreement?
+* Do they like pineapple on their pizza?
 * Do they prefer well engineered solutions or fast solutions?
 * Do they have their phone available on the weekends?
 
