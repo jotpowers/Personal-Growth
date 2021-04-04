@@ -39,7 +39,7 @@ But, if you really want to be successful, when they finally unveil "their idea" 
 
 You're going to want to say:  "I told you so." Resist.  Say it to yourself over a beer.  You'll know, and everything will be right with the universe.
 
-## What Your Boss Wants
+## How to Work With Your Boss
 
 The best way to determine how your boss wants you to respond to their requests and interact with them, is to observe how they interact with their boss. In general it is an expression of their internal value system.
 
