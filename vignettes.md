@@ -51,7 +51,7 @@ The best way to determine how your boss wants you to respond to their requests a
 * Do they prefer well engineered solutions or fast solutions?
 * Do they have their phone available on the weekends?
 
-# You're as Competent as a 5-year old
+## You're as Competent as a 5-year old
 
 In the spheres that I have years of experience, you're as competent as a 5-year old to me.
 In the spheres that you have years of experience, I'm as competent as a 5-year old to you.
