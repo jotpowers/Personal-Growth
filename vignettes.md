@@ -51,4 +51,19 @@ The best way to determine how your boss wants you to respond to their requests a
 * Do they prefer well engineered solutions or fast solutions?
 * Do they have their phone available on the weekends?
 
+# You're as Competent as a 5-year old
+
+In the spheres that I have years of experience, you're as competent as a 5-year old to me.
+In the spheres that you have years of experience, I'm as competent as a 5-year old to you.
+
+To steal from the [famous poker quote](https://quoteinvestigator.com/2011/07/09/poker-patsy/), if you're not sure who the 5-year old is, it's you.
+
+Via [Tom Denton](https://www.facebook.com/ThomasTangoDeltaDenton/posts/10156818803901307) and Facebook, as much as that pains me.
+
+This especially applies to:
+* Investing
+* Medicine
+* DNS
+
+I'll leave it to you to figure out where you're the 5-year old versus where I am.
 
