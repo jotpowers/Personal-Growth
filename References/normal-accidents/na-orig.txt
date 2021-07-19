@@ -1,0 +1,179 @@
+Normal Accidents
+	Living with High Risk Technologies
+
+Charles Perrow
+
+published in 1984
+
+Perrow identifies three conditions that make a system likely to be susceptible to Normal Accidents. These are:
+
+The system is complex
+The system is tightly coupled
+The system has catastrophic potential
+
+
+The NRC defines two emergency planning zones around nuclear power plants: a plume exposure pathway zone with a radius of 10 miles (16 km), concerned primarily with exposure to, and inhalation of, airborne radioactive contamination, and an ingestion pathway zone of about 50 miles (80 km), concerned primarily with ingestion of food and liquid contaminated by radioactivity.[10]
+
+The 2010 U.S. population within 10 miles (16 km) of Three Mile Island was 211,261, an increase of 10.9 percent in a decade, according to an analysis of U.S. Census data for msnbc.com. The 2010 U.S. population within 50 miles (80 km) was 2,803,322, an increase of 10.3 percent since 2000. Cities within 50 miles include Harrisburg (12 miles to city center), York (13 miles to city center), and Lancaster (24 miles to city center).[11]
+
+
+
+The accident began on Wednesday, March 28, 1979, and ultimately resulted in a partial core meltdown in Unit 2 of the nuclear power plant (a pressurized water reactor) of the Three Mile Island Nuclear Generating Station in Dauphin County, Pennsylvania near Harrisburg.
+
+
+The conclusion of the President’s commission that investigated the Three Mile Island accident was that it was the result of human error, particularly on the part of the plant’s operators.
+
+The trouble started with a blockage in what is called the plant’s polisher-a kind of giant water filter.
+
+Polisher problems were not unusual, or particularly serious.
+
+But in this case the blockage caused moisture to leak into the plant’s air system, inadvertently tripping two valves and shutting down the flow of cold water into the plant’s steam generator.
+
+As it happens, Three Mile Island had a backup cooling system for precisely this situation. But on that particular day, for reasons that no one really knows, the valves for the backup system weren’t open.
+
+They had been closed, and an indicator in the control room showing they were closed was blocked by a repair tag hanging from a switch above it. That left the reactor dependent on another backup system, a special sort of relief valve.
+
+But, as luck would have it, the relief valve wasn’t working properly that day, either. It stuck open when it was supposed to close, and, to make matters even worse, a gauge in the control room which should have told the operators that the relief valve wasn’t working was itself not working.
+
+By the time engineers realized what was happening, the reactor had come dangerously close to a meltdown.
+
+Here, in other words, was a major accident caused by five discrete events.
+
+There is no way the engineers in the control room could have known about any of them.
+
+No glaring errors or spectacularly bad decisions were made that exacerbated those events. And all the malfunctions-the blocked polisher, the shut valves, the obscured indicator, the faulty relief valve, and the broken gauge-were in themselves so trivial that individually they would have created no more than a nuisance.
+
+What caused the accident was the way minor events unexpectedly interacted to create a major problem.
+
+
+how to categorize accidents and incidents
+	accident involves damage to a defined system that disrupts the ongoing or future output of that system
+if there is a problem, but no damage, then that is an incident
+
+smallest element - part
+subsystem - collection of elements
+
+impacts to those are incidents, anything higher is an accident
+
+victims
+
+first party victims are the operators of the system
+second party victims are associated with the system as suppliers or users but without influence overr it
+third party victims are innocent bystanders
+
+accidents involve damage to systems or the system as a whole
+component failure accidents involve one or more component failure
+system accidents involve the unanticipated interaction of multiple failures
+
+component and system are distinguished on the basis of whether or not the were expect or comprehensible to those who designed or operated the system
+
+complex systems
+	proximity of parts that are not in a production sequence
+	many common mode connections not in a production sequence
+	unfamiliar or unintended feedback loops
+	many control parameters with potential interactions
+	indirect or inferential information sources
+	limited understanding of some processes
+
+
+done?    include the table from the book on complex vs linear
+
+
+
+include table on tight versus loose coupling
+
+
+from 2013 paper
+
+Complexity, which is the enemy of reliability,
+can be reduced through modularizing a system 
+Building from an integrated design is, in
+many cases, cheaper and faster than modularity.
+There is no need for complicated interfaces
+between modules; there will be more common
+modes that reduce duplications of all kinds of
+inputs and components, and there are fewer assembly
+problems. If it also prevents competing
+applications from running on the system because
+of its integrated design, there are good reasons
+to prefer it. But it increases complexity, and
+thus allows the unexpected interaction of errors,
+and necessitates tight coupling, both of which
+can lead to “normal accidents” (Perrow 1999). 
+
+ Thus, collocated teams
+can intentionally design in modularity , though
+modularity is more likely to be a product of
+an architecture that is iteratively designed by
+dispersed software writers. In other studies,
+MacCormack and associates (2007b) managed
+to match five examples of designs where they
+could compare the open source- and the proprietary
+products, and found striking support
+for their hypothesis that the distributed teams
+generated loosely-coupled systems, and single
+teams generated tightly-coupled ones. Tightlycoupled
+systems were more vulnerable to errors.
+Organizational structures are important
+in complex, tightly-coupled systems. As they
+put it in one paper: “Tightly coupled components
+are more likely to survive from one design
+version to the next, implying that they are
+less adaptable via the processes of exclusion or
+substitution; they are more likely to experience
+‘surprise’ dependency additions unrelated to
+new functionality, implying that they demand
+greater maintenance efforts; and they are harder
+to augment, in that the mix of new components
+is more modular than the legacy design” (MacCormack
+et al. 2007b, p. 26).
+
+
+
+The Impact of
+Component Modularity
+on Design Evolution:
+Evidence from the
+Software Industry
+Alan MacCormack
+John Rusnak
+Carliss Baldwin 
+
+
+ Design Structure Matrix (DSM). A DSM highlights a
+design’s structure by examining the dependencies that exist between its constituent
+elements in a square matrix (Steward, 1981; Eppinger et al, 1994). These elements can
+represent tasks to be performed, parameters to be defined or actual components in a
+design. A key contribution of the DSM literature has been in showing that modularity 
+7
+depends not only on the number of dependencies between elements, but also on their
+pattern of distribution (Sosa et al, 2003; Sharman and Yasine, 2004; Rivkin and
+Siggelkow, 2007). Complex systems comprise a mix of elements with different levels of
+dependency; DSMs can be used to reveal design differences at the microstructure level.
+In recent work, metrics which capture the degree of coupling in a system have been
+developed and used to compare different designs (MacCormack et al, 2006). 
+
+
+Exploring the Duality
+between Product and
+Organizational Architectures:
+A Test of the “Mirroring”
+Hypothesis
+Alan MacCormack
+John Rusnak
+Carliss Baldwin 
+
+
+We find strong evidence to support the mirroring hypothesis. In all of the pairs we
+examine, the product developed by the loosely-coupled organization is significantly more
+modular than the product from the tightly-coupled organization. We measure modularity
+by capturing the level of coupling between a product’s components. The magnitude of
+the differences is substantial – up to a factor of eight, in terms of the potential for a
+design change in one component to propagate to others. Our results have significant
+managerial implications, in highlighting the impact of organizational design decisions on
+the technical structure of the artifacts that these organizations subsequently develop.
+
+Specifically, we conduct a test of the “mirroring” hypothesis, which can be stated as
+follows: Loosely-coupled organizations will tend to develop products with more modular
+architectures than tightly-coupled organizations. 
+

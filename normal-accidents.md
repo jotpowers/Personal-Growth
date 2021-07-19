@@ -6,8 +6,18 @@ sidebar_label: Normal Accidents
 
 This is a rabbit hole I went down in 2016/17.  There are a lot of interesting books out there, and I tend to read a decent amount, and I don't remember where, but there was a recommendation for [Charles Perrow](https://en.wikipedia.org/wiki/Charles_Perrow)'s [Normal Accidents](https://en.wikipedia.org/wiki/Normal_Accidents).  I was hooked, because I saw the parallels in the complexity of large software systems with the complexity of other tightly coupled, complex systems.
 
+![Normal Accidents Cover](References/normal-accidents/normal-accidents-cover.jpg)
+## Summary
+
+* If you have complex, tightly-coupled systems, outages are inevitable.  They are not in fact "accidents" or "things that could have been prevented" they are the natural outgrowth of the decisions you have made.
+* Conway's Law holds that if you do not plan your organization to create loosely-coupled systems, you will end up with tightly-coupled systems.
+* There is reasonable proof of these two items in the literature.
+
+## Now onto the examples
 
 ## Three-Mile Island
+
+![TMI (no, not that kinds) Animation](References/normal-accidents/tmi-animation.gif)
 
 * Two separate unites (TMI—1 & TMI-2) generating 852 MWe and 906MWe respectively
 * So named for being three miles downriver from Middletown, PA, a booming metropolis of 8,900 people as of 2010.
@@ -26,8 +36,8 @@ This is a rabbit hole I went down in 2016/17.  There are a lot of interesting bo
 ### Root Cause Analysis
 
 The conclusion of the President’s commission that investigated the Three Mile Island accident was that it was the result of human error, particularly on the part of the plant’s operators.  We can talk about the details, but honestly, it doesn’t matter because it will sound so familiar.
-### RESTR19790328
 
+### RESTR19790328
 * Bad news: Started with a blockage in what is called the plant’s polisher (a water filter).  Polisher problems were not unusual or particularly serious.
 * Bad news: The blockage caused moisture to leak into the plant’s air system, inadvertently tripping two valves and shutting down the flow of cold water into the plant’s steam generator.
 * Good news: TMI had a backup cooling system for precisely this situation!
@@ -80,7 +90,6 @@ All that is old is new again
 
 It's been 10 years since Fukishima. 
 
-
 ## Using a Common Language
 
 ### Systems
@@ -105,17 +114,17 @@ It's been 10 years since Fukishima.
 There are three conditions that make a system likely to be susceptible to Normal Accidents.
 
 ### The system is complex
-Proximity of pieces that are not in a production sequence
-Many common mode connections not in a production sequence
-Unfamiliar or unintended feedback loops
-Indirect or inferential information sources
-Limited understanding of some processes
+* Proximity of pieces that are not in a production sequence
+* Many common mode connections not in a production sequence
+* Unfamiliar or unintended feedback loops
+* Indirect or inferential information sources
+* Limited understanding of some processes
 
 ### The system is tightly coupled
-Tight coupling is a mechanical term meaning there is no slack or buffer or give between two items. What happens in one directly affects what happens in the other.
-Loosely coupled systems tend to have ambiguous or flexible performance standards, and they may have little consumer monitoring, so the absence of the intended connection can remain unobserved.
+* Tight coupling is a mechanical term meaning there is no slack or buffer or give between two items. What happens in one directly affects what happens in the other.
+* Loosely coupled systems tend to have ambiguous or flexible performance standards, and they may have little consumer monitoring, so the absence of the intended connection can remain unobserved.
 ### The system has catastrophic potential
-No one gets paid.
+* No one gets paid.
 
 
 :::warning
@@ -129,8 +138,7 @@ If you have all three, your System Accidents are Normal Accidents.
 * Modular designs are loosely-coupled in that changes made to one module have little impact on the others. 
 * Modularity promotes loose coupling, so that errors do not interact and cascade through the system. 
 
-insert table here
-
+![Coupling chart](References/normal-accidents/chart2.png)
 
 
 A variety of studies have examined the link between a product’s architecture and the characteristics of the organization that develops it.
@@ -142,31 +150,38 @@ A key contribution of the DSM literature has been in showing that modularity dep
 ### ”Mirroring” Hypothesis
 Loosely-coupled organizations will tend to develop products with more modular architectures than tightly-coupled organizations.
 
+![Mirroring](References/normal-accidents/mirroring-table-1.png)
+
 
 ## Conclusions: Modularity & Organizational Structure
 
-The architectures of the products will differ significantly due to the form of the organization. 
-Open source software products are likely to be more modular than commercial software products. 
-Very high propagation cost suggests it is the pattern of dependencies, and not the number of them, that drives a high level of coupling between components. 
-Early design choices have a profound impact on a system, however, as the system grows, the organizational form during development plays an increasingly large role.
+* The architectures of the products will differ significantly due to the form of the organization. 
+* Open source software products are likely to be more modular than commercial software products. 
+* Very high propagation cost suggests it is the pattern of dependencies, and not the number of them, that drives a high level of coupling between components. 
+* Early design choices have a profound impact on a system, however, as the system grows, the organizational form during development plays an increasingly large role.
 
+![Propogation Cost](References/normal-accidents/propogation-cost.png)
+
+![MySQL vs Berkeley](References/normal-accidents/mysql-v-berkeley.png)
 
 ### Your organizational structure causes bugs
-Increasing co-location and hierarchy provably leads to
-Tightly coupled systems
-Reduced modularity
+* Increasing co-location and hierarchy provably leads to
+  * Tightly coupled systems
+  * Reduced modularity
 
 ### Become more loosely coupled (increased modularity)
-Modularity decreases dependencies
-Reduces propagation cost
-Improves reliability
+* Modularity decreases dependencies
+* Reduces propagation cost
+* Improves reliability
 
 ### "Inner source" should be a priority
-Increases modularity
-Leads to loose coupling
 
+* Increases modularity
+* Leads to loose coupling
 
-
+:::note
+''Inner-sourcing'' is a term that I suspect is widely used, but may not be.  At our company it is the idea that your code is available and understandable enough that other teams can submit pull requests against it to add functionality that you can not prioritize.  I will warn you that at times this can be ''weaponized''.  This is where teams do not do the work that they should reasonably own because "well, they can inner source those changes".   This is counter-productive.
+:::
 
 
 ## Additional Material

@@ -1,0 +1,77 @@
+
+
+done?    include the table from the book on complex vs linear
+
+
+
+include table on tight versus loose coupling
+
+
+from 2013 paper
+
+Complexity, which is the enemy of reliability, can be reduced through modularizing a system 
+Building from an integrated design is, in many cases, cheaper and faster than modularity.
+
+There is no need for complicated interfaces between modules; there will be more common modes that reduce duplications of all kinds of inputs and components, and there are fewer assembly problems. If it also prevents competing applications from running on the system because of its integrated design, there are good reasons to prefer it. But it increases complexity, and thus allows the unexpected interaction of errors, and necessitates tight coupling, both of which can lead to “normal accidents” (Perrow 1999). 
+
+Thus, collocated teams can intentionally design in modularity , though modularity is more likely to be a product of an architecture that is iteratively designed by dispersed software writers. 
+
+In other studies,
+MacCormack and associates (2007b) managed
+to match five examples of designs where they
+could compare the open source- and the proprietary
+products, and found striking support
+for their hypothesis that the distributed teams
+generated loosely-coupled systems, and single
+teams generated tightly-coupled ones. Tightlycoupled
+systems were more vulnerable to errors.
+Organizational structures are important
+in complex, tightly-coupled systems. As they
+put it in one paper: “Tightly coupled components
+are more likely to survive from one design
+version to the next, implying that they are
+less adaptable via the processes of exclusion or
+substitution; they are more likely to experience
+‘surprise’ dependency additions unrelated to
+new functionality, implying that they demand
+greater maintenance efforts; and they are harder
+to augment, in that the mix of new components
+is more modular than the legacy design” (MacCormack
+et al. 2007b, p. 26).
+
+
+
+The Impact of
+Component Modularity
+on Design Evolution:
+Evidence from the
+Software Industry
+Alan MacCormack
+John Rusnak
+Carliss Baldwin 
+
+
+Design Structure Matrix (DSM). A DSM highlights a design’s structure by examining the dependencies that exist between its constituent elements in a square matrix (Steward, 1981; Eppinger et al, 1994). These elements can represent tasks to be performed, parameters to be defined or actual components in a design. A key contribution of the DSM literature has been in showing that modularity 7 depends not only on the number of dependencies between elements, but also on their pattern of distribution (Sosa et al, 2003; Sharman and Yasine, 2004; Rivkin and Siggelkow, 2007). Complex systems comprise a mix of elements with different levels of dependency; DSMs can be used to reveal design differences at the microstructure level.  In recent work, metrics which capture the degree of coupling in a system have been developed and used to compare different designs (MacCormack et al, 2006). 
+
+
+Exploring the Duality
+between Product and
+Organizational Architectures:
+A Test of the “Mirroring”
+Hypothesis
+Alan MacCormack
+John Rusnak
+Carliss Baldwin 
+
+
+We find strong evidence to support the mirroring hypothesis. In all of the pairs we
+examine, the product developed by the loosely-coupled organization is significantly more
+modular than the product from the tightly-coupled organization. We measure modularity
+by capturing the level of coupling between a product’s components. The magnitude of
+the differences is substantial – up to a factor of eight, in terms of the potential for a design change in one component to propagate to others. Our results have significant managerial implications, in highlighting the impact of organizational design decisions on
+the technical structure of the artifacts that these organizations subsequently develop.
+
+Specifically, we conduct a test of the “mirroring” hypothesis, which can be stated as
+follows: Loosely-coupled organizations will tend to develop products with more modular
+architectures than tightly-coupled organizations. 
+
