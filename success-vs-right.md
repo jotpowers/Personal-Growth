@@ -18,7 +18,7 @@ There is a spectrum of options from "always doing the *right* thing" to "I'll do
 
 Here are some of the ways that you can be right, and not be successful.  So maybe try to avoid these.
 
-== You're right, but you're too early.
+## You're right, but you're too early.
 
 I call this the "Webvan Problem."
 
@@ -28,7 +28,7 @@ What you may not remember is [Webvan](https://en.wikipedia.org/wiki/Webvan).  It
 
 They were right.  Online ordering and grocery delivery was a nascent demand that could create a succesful business.  But they were a decade too early, and so they weren't succesful.
 
-== You're right, but you can't convince others
+## You're right, but you can't convince others
 
 I call this the "Ignaz Problem."
 
@@ -42,7 +42,7 @@ But, he did himself no favors.
 
 This example is so egregious that the human tendency to reject new information that conflicts with established norms is call the [Semmelweis Reflex](https://en.wikipedia.org/wiki/Semmelweis_reflex).
 
-== You're right, but you alienate people
+## You're right, but you alienate people
 
 Finally, this is the "Political Problem."
 
