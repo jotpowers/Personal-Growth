@@ -1,5 +1,5 @@
 ---
-id: success 
+id: success-vs-right
 title: Being Successful versus Being Right
 sidebar_label: Being Successful vs. Being Right
 ---
