@@ -1,4 +1,8 @@
-
+---
+id: success 
+title: Being Successful versus Being Right
+sidebar_label: Being Successful vs. Being Right
+---
 
 There was a question I received from a friend a long time ago, that is deceptively simple:
 
