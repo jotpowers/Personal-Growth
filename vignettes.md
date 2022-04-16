@@ -70,3 +70,7 @@ I'll leave it to you to figure out where you're the 5-year old versus where I am
 ## Facts
 
 I'm the only person in the world that makes up unsubstantiated facts.
+
+## Problems
+
+Most problems look insignificant and easy to solve, from 30,000 feet (10.000 meters)
