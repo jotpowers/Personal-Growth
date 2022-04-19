@@ -32,7 +32,7 @@ They were right.  Online ordering and grocery delivery was a nascent demand that
 
 ## You're right, but the probabilities go the wrong way
 
-I think my most important writing (if any of it is important) is what I wrote on [Decision Making)[decision-making.md).  In there I reference [Annie Duke](https://www.annieduke.com/)'s book [Thinking in Bets]https://www.indiebound.org/book/9780735216358?aff=penguinrandom), and she has a fantastic example.  It's a case of making the right decision, and having a bad outcome.  I'm not going to lay it out here, because you should read her book, but I call this:
+I think my most important writing (if any of it is important) is what I wrote on [Decision Making)[decision-making.md).  In there I reference [Annie Duke](https://www.annieduke.com/)'s book [Thinking in Bets](https://www.indiebound.org/book/9780735216358?aff=penguinrandom), and she has a fantastic example.  It's a case of making the right decision, and having a bad outcome.  I'm not going to lay it out here, because you should read her book, but I call this:
 
 The Seahawks Problem.
 
