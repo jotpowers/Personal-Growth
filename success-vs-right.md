@@ -16,7 +16,9 @@ The answer to that is "maybe", and I want to dig more into that, but first...
 
 There is a spectrum of options from "always doing the *right* thing" to "I'll do whatever it takes to be successful".  If you are in the "I'll do whatever it takes" camp, that makes you a sociopath.  "Always doing the right thing" is a great goal, but it comes with a huge load of baggage around your moral and cultural views.  Now, back to being right.
 
-Here are some of the ways that you can be right, and not be successful.  So maybe try to avoid these.
+It is also a true that being "right" isn't binary.  Virtually everything in life is about probabilities, and you're just trying to ensure that you're following the path of probabilities that have the highest chance of making you successful.
+
+This is my list of ways you can be right and not successful.  Hopefully they're useful to you.
 
 ## You're right, but you're too early.
 
@@ -27,6 +29,12 @@ A great example of this is on-line grocery ordering with delivery.  It's obvious
 What you may not remember is [Webvan](https://en.wikipedia.org/wiki/Webvan).  It was founded in 1998 and IPOd in 1999 with a resulting value of $4.5 billion.  By 2001 it declared bankruptcy.
 
 They were right.  Online ordering and grocery delivery was a nascent demand that could create a succesful business.  But they were a decade too early, and so they weren't succesful.
+
+## You're right, but the probabilities go the wrong way
+
+I think my most important writing (if any of it is important) is what I wrote on [Decision Making)[decision-making.md).  In there I reference [Annie Duke](https://www.annieduke.com/)'s book [Thinking in Bets]https://www.indiebound.org/book/9780735216358?aff=penguinrandom), and she has a fantastic example.  It's a case of making the right decision, and having a bad outcome.  I'm not going to lay it out here, because you should read her book, but I call this:
+
+The Seahawks Problem.
 
 ## You're right, but you can't convince others
 
