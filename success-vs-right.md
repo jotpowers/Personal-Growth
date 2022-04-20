@@ -50,6 +50,16 @@ But, he did himself no favors.
 
 This example is so egregious that the human tendency to reject new information that conflicts with established norms is call the [Semmelweis Reflex](https://en.wikipedia.org/wiki/Semmelweis_reflex).
 
+## You're right, but you don't have any alternatives
+
+I call this the "me problem."  
+
+There was a bad impact to the company I work for.  It took a few hours and people did all sorts of things that I disagreed with, and have complained about in the past.
+
+But, as I thought about it, what would I have had them do?  I'm not exactly sure what that would be.
+
+When the only outcome of testing your hypothesis is "I was right" and doesn't include "... and this is what we then do", just makes you a jerk.
+
 ## You're right, but you alienate people
 
 Finally, this is the "Political Problem."
