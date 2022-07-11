@@ -1,12 +1,22 @@
 ---
 id: normal-accidents
-title: Normal Accidents
-sidebar_label: Normal Accidents
+title: Conway's Law - A Corollary
+sidebar_label: Conway's Law - A Corollary
 ---
 
-This is a rabbit hole I went down in 2016/17.  There are a lot of interesting books out there, and I tend to read a decent amount, and I don't remember where, but there was a recommendation for [Charles Perrow](https://en.wikipedia.org/wiki/Charles_Perrow)'s [Normal Accidents](https://en.wikipedia.org/wiki/Normal_Accidents).  I was hooked, because I saw the parallels in the complexity of large software systems with the complexity of other tightly coupled, complex systems.
+:::note
+"Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."
 
-![Normal Accidents Cover](References/normal-accidents/cover.jpg)
+ \- Melvin Conway, 1967
+:::
+
+...also paraphrased as "You ship your org chart."
+
+:::note
+Jot's Corollary - "Your software as only as reliable as the geo-diversity of your organization."
+:::
+
+This is a rabbit hole I went down in 2016/17.  There are a lot of interesting books out there, and I tend to read a decent amount, and I don't remember where, but there was a recommendation for [Charles Perrow](https://en.wikipedia.org/wiki/Charles_Perrow)'s [Normal Accidents](https://en.wikipedia.org/wiki/Normal_Accidents).  I was hooked, because I saw the parallels in the complexity of large software systems with the complexity of other tightly coupled, complex systems.
 
 ## Overview
 
@@ -18,14 +28,15 @@ If you want to ensure you have the most [antifragile](books#anything-by-nassim-t
 * You want your code to be as modular as possible
 * You want your sytems to be loosely coupled
 
+### Action
 In order to actually accomplish this you need to:
 
-### Action
 * Ensure that your organization is geo-diverse.
 * Reduce formalized hierarchy decisions as much as possible.
 
 ### Failure
 If you do **not** do this:
+
 * You will have catastrophic accidents, and those will be Normal Accidents.
 
 ## How Predictive was Normal Accidents?
@@ -127,17 +138,15 @@ If you have all three, your System Accidents are Normal Accidents.
 
 ## Product and Organizational Architectures
 
-* “Any organization that designs a system will inevitably produce a design whose structure is a copy of the organization’s communication structure” (Conway, 1968). 
 * Modular designs are loosely-coupled in that changes made to one module have little impact on the others. 
 * Modularity promotes loose coupling, so that errors do not interact and cascade through the system. 
 
 ![Coupling chart](References/normal-accidents/chart2.png)
 
-
 A variety of studies have examined the link between a product’s architecture and the characteristics of the organization that develops it.
 Software products can be processed automatically to identify the dependencies that exist between their component elements (something that cannot be done with physical products). 
 These dependencies, in turn, can be used to characterize a product’s architecture, by displaying the information visually and by calculating metrics that capture the overall level of coupling. 
-### Design Structure Matrix (DSM). 
+### Design Structure Matrix (DSM)
 A DSM highlights a design’s structure by examining the dependencies that exist between its constituent elements in a square matrix.
 A key contribution of the DSM literature has been in showing that modularity depends not only on the number of dependencies between elements, but also on their pattern of distribution. 
 ### ”Mirroring” Hypothesis
