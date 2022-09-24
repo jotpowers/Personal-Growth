@@ -65,12 +65,22 @@ This especially applies to:
 * Medicine
 * DNS
 
-I'll leave it to you to figure out where you're the 5-year old versus where I am.
-
-## Facts
-
-I'm the only person in the world that makes up unsubstantiated facts.
-
 ## Problems
 
 Most problems look insignificant and easy to solve, from 30,000 feet (10.000 meters)
+
+## College
+
+1. Read the material before the class.
+2. Start the homework the day it is assigned
+3. A lot of work is more like physical work than mental, you are limited by how fast you can work.  (e.g. programming assignments)
+4. Study for the tests.  Open book, multiple choice tests are a trap.
+
+## Should
+
+From a Farnam Street podcast.
+
+When someone comes to you with an idea or project they're passionate about, don't offer suggestions to make it .2% better.  It's tempting but demotivating.  The brilliant saying is:
+
+"Don't 'should' all over the project."
+

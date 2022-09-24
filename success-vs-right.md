@@ -64,7 +64,7 @@ When the only outcome of testing your hypothesis is "I was right" and doesn't in
 
 Finally, this is the "Political Problem."
 
-I'm calling it that, because of the results you get when you search for things like "most successful jerks in history" and you look at the results.  They are dominated by people who were successful because what they created was devisiveness and then capitalized on that.  The net result is an increase in misery overall.  The stellar achievers in this category are:
+I'm calling it that, because of the results you get when you search for things like "most successful jerks in history" and you look at the results.  They are dominated by people who were successful because what they created was devisiveness (i.e. they are 'dividers')  and then capitalized on that.  The net result is an increase in misery overall.  The stellar achievers in this category are:
 
 * Nero
 * Stalin
