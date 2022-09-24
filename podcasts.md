@@ -12,6 +12,10 @@ This is my favorite material for learning while I commute.  In particular, it's 
 
 A quick metric for me on the quality of a podcast:  Do I have to listen to it at less than 2.0X?  If the information is so dense that I find myself dropping to 1.8 or even *gasp* 1.6, I know that either there is some real information density in here, or someone is really good at snowing me.
 
+:::note
+I no longer really make detailed lists about every podcast, so these podcasts have some great episodes that aren't listed here.  Too much content, not enough time.
+:::note
+
 ## Favorites
 
 ## Invest Like the Best - Patrick O'Shaughnessy
@@ -179,6 +183,13 @@ A ton of very short episodes.  I find them really interesting, but in a trivia k
 
 * Incredibly short analysis of how using *lean* to evaluate the patient journey improved a hospital.  Not just the patient experience and outcomes, but the profitability of a hospital.  If you can't spare the 7-15 minutes, skip a few minutes of Netflix and listen to this instead.
 
-### Marketplace - Kai Ryssdal
+### Work Life
 
-My go-to source for daily information.  I don't get caught up in the ups and downs of the market, but it's a good way to get a summary of what is going on in the world.  
+* Good series of podcasts from [Adam Grant](https://en.wikipedia.org/wiki/Adam_Grant).  I haven't kept up, but have enjoyed them in the past.
+
+## Niche
+
+### [Science of Ultra](https://www.scienceofultra.com/podcasts)
+
+* Although this is largely focused on ultra running (distances of greater than 26.2 miles), it covers a lot about exercise and physiology.  I especially like to listen to it too and from races.
+
