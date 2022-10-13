@@ -43,7 +43,9 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 * "If you're not selling fry-bread there, you're not allowed to call it a fair.  I'm looking at you 'Job Fair' and you 'College Fair'."  (Acceptable substitutes:  Funnel cake, Elephant ears)
 * "The worst part about being a parent is recognizing that, as an adult you can have ice cream for dinner, but as a parent you can't have ice cream for dinner."
 * "I'm the only person in the world that makes up unsubstantiated facts."
-
+* "Don't make me resort to empty threats." 
+* “Once you’ve shattered both collarbones, strapless evening gowns become less important.”
+* "Sometimes two stupids makes a smart."
  
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"
