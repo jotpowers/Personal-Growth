@@ -73,4 +73,6 @@ I'm calling it that, because of the results you get when you search for things l
 
 Of special note, excluding these 'dividers', your searches for "people who were successful despite being jerks" is going to yield a much smaller list than "people who were successful".  Even including them, I would argue that they are mostly firmly in the 'sociopath' camp.
  
+## You're right, but the outcome is horrific
 
+There are plenty of people who had the right-of-way in a car accident, or a car-pedestrian accident, that were right and they're still injured.  Being right isn't some sort of super-suit of armor.  You can be right, and still be dead.  Being right won't be any consolation to your survivors.
