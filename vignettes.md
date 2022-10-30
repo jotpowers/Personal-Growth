@@ -9,7 +9,7 @@ This is just a place for small things that I've thought about that don't deserve
 
 ## The Best Career Advice I've Ever Received
 
-"Find someone you trust.  Work on something important to them."  - Yannick Bercy (RIP)
+> "Find someone you trust.  Work on something important to them."  - Yannick Bercy (RIP)
 
 ## Feedback is a Gift
 
@@ -86,5 +86,4 @@ When someone comes to you with an idea or project they're passionate about, don'
 
 ## Work vs Love
 
-“Do what you love” is for amateurs. “Love what you do” is the mantra for professionals.
-  - Seth Godin
+> “Do what you love” is for amateurs. “Love what you do” is the mantra for professionals.  - Seth Godin
