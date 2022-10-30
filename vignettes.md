@@ -84,3 +84,7 @@ When someone comes to you with an idea or project they're passionate about, don'
 
 "Don't 'should' all over the project."
 
+## Work vs Love
+
+“Do what you love” is for amateurs. “Love what you do” is the mantra for professionals.
+  - Seth Godin
