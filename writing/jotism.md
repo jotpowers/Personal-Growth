@@ -46,6 +46,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 * "Don't make me resort to empty threats." 
 * “Once you’ve shattered both collarbones, strapless evening gowns become less important.”
 * "Sometimes two stupids makes a smart."
+* "There are few things more unifying, as a nation, than the hatred of Ticketmaster".
  
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"
