@@ -39,7 +39,6 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 * "Do you need data to backup your perspective?  Subscribe to 'Gartner Sorta', where we can give you whatever data supports your biases."  - Context:  Got an email about some sort of new data service Gartner was providing.
 * "I think the easist summary would be that you can figure out which KPIs we track with the following regex: .* "
 * "Just last week I was telling someone that the fastest way to make me angry was to lie to me in such a way that it was obvious that you thought I was stupid.  Henceforth, I will refer to this email as 'Exhibit A'."
-* "Listen, your attempts to provide links and actual data are not going to dissuade me from making smart ass comments about things."
 * "If you're not selling fry-bread there, you're not allowed to call it a fair.  I'm looking at you 'Job Fair' and you 'College Fair'."  (Acceptable substitutes:  Funnel cake, Elephant ears)
 * "The worst part about being a parent is recognizing that, as an adult you can have ice cream for dinner, but as a parent you can't have ice cream for dinner."
 * "I'm the only person in the world that makes up unsubstantiated facts."
