@@ -8,7 +8,7 @@ sidebar_label: Podcast Reviews
 
 # Podcasts
 
-This is my favorite material for learning while I commute.  In particular, it's because there is no other way for me to access this material.  With audiobooks, I can still read the visualbooks versions of them.  But, finding good podcasts is hard.  So hard, that I actually haven't found very many that are useful at all.  So, I'm going to list them here, with the episodes.  This is actually a great forcing function for me, because now I'll have to go back through the ones that I said to myself "Oh shit, this is important" and re-listen.  From there I'll try to make notes of what it was I thought was important here.  This will also let me check if I just liked them because I was drinking at the time.
+This was my favorite material for learning while I commuted, back when that was a thing before COVID.  But it is still what I like to do if I'm forced to walk for exercise or getting my 42 steps for the day.  In particular, it's because there is no other way for me to access this material.  With audiobooks, I can still read the visualbooks versions of them.  But, finding good podcasts is hard.  So hard, that I actually haven't found very many that are useful at all.  So, I'm going to list them here, with the episodes.  This is actually a great forcing function for me, because now I'll have to go back through the ones that I said to myself "Oh shit, this is important" and re-listen.  From there I'll try to make notes of what it was I thought was important here.  This will also let me check if I just liked them because I was drinking at the time.
 
 A quick metric for me on the quality of a podcast:  Do I have to listen to it at less than 2.0X?  If the information is so dense that I find myself dropping to 1.8 or even *gasp* 1.6, I know that either there is some real information density in here, or someone is really good at snowing me.
 
@@ -20,7 +20,9 @@ I no longer really make detailed lists about every podcast, so these podcasts ha
 
 ## Invest Like the Best - Patrick O'Shaughnessy
 
-   Yes, this is an investing podcast, so certain episodes I only find interesting because it's a space that I have [alot](https://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) of interest.  But the real value is in the exploration of ideas from people in investing.  So there are a ton of leadership and growth discussions that have little to do with investing.  This is probably responsible for 25% of the books that get added to my reading lists.
+Yes, this is an investing podcast, so certain episodes I only find interesting because it's a space that I have [alot](https://hyperboleandahalf.blogspot.com/2010/04/alot-is-better-than-you-at-everything.html) of interest.  But the real value is in the exploration of ideas from people in investing.  So there are a ton of leadership and growth discussions that have little to do with investing.  This is probably responsible for 25% of the books that get added to my reading lists.
+
+I think the original episodes are great, but over time they've gotten more specific.  The result is that I'm more selective about which ones I listen to now, and I find that I get fewer high level ideas out of them, and instead get mroe nuggets.
 
 ### Must listen to episodes
 
