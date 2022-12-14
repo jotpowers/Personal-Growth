@@ -87,3 +87,9 @@ When someone comes to you with an idea or project they're passionate about, don'
 ## Work vs Love
 
 > “Do what you love” is for amateurs. “Love what you do” is the mantra for professionals.  - Seth Godin
+
+## Indispensable People
+
+"The graveyards of Europe are filled with indispensible men." -Misattributed to Charles De Gaulle, but really, an old saying [first documented by Elbert Hubbard](https://quoteinvestigator.com/2011/11/21/graveyards-full/).
+
+The idea being, in reality, no one is indispensable.  It will be sad/inconvenient if they are gone, but they are not indispensible.
