@@ -46,6 +46,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 * “Once you’ve shattered both collarbones, strapless evening gowns become less important.”
 * "Sometimes two stupids makes a smart."
 * "There are few things more unifying, as a nation, than the hatred of Ticketmaster".
+* "No, thank you."  - Context:  Used when someone wants you to do something, but phrases it as a question.  i.e. Can you take out the trash?  "No, thank you."
  
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"

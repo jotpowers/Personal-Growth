@@ -93,3 +93,11 @@ When someone comes to you with an idea or project they're passionate about, don'
 "The graveyards of Europe are filled with indispensible men." -Misattributed to Charles De Gaulle, but really, an old saying [first documented by Elbert Hubbard](https://quoteinvestigator.com/2011/11/21/graveyards-full/).
 
 The idea being, in reality, no one is indispensable.  It will be sad/inconvenient if they are gone, but they are not indispensible.
+
+## Grandparents
+
+Grandparents are critical, because they help prevent problems from perpetuating every other generation.  Let me explain.
+
+Everyone has things that happened to them that they say "I'll never do that with my children."  But, they often don't actually understand the context and the tradeoffs, because, well, they're kids.  So, they prevent that for their children, and thereby cause the problem that their parents wanted to make sure "never happened to their children".
+
+Grandparents help provide the context on the original so it doesn't just change into an every-other-generation thing.
