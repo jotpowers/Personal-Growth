@@ -47,6 +47,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 * "Sometimes two stupids makes a smart."
 * "There are few things more unifying, as a nation, than the hatred of Ticketmaster".
 * "No, thank you."  - Context:  Used when someone wants you to do something, but phrases it as a question.  i.e. Can you take out the trash?  "No, thank you."
+* "The chasm between 'know' and 'think' is larger than the Grand Canyon."
  
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"
