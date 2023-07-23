@@ -83,7 +83,7 @@ These are my more detailed notes for the [Tim Urban podcast](podcasts.md#urban).
           * Most people reason from analogy because it's an evolutionary adaptation to create a shortcut
         * Because he reasons from first principles he will push through all the reasons that people think things can not be done because the first principles say it can be done. 
 	* People want to fit in, but that's something that you can easily reason past.  The key is just the self-awareness to understand your own tribal psychology and the delusion that comes along with it and realizing that conventional wisdom is now wisdom for a reality that doesn't exist anymore.
-	  * Conventional wisdowm is normally wrong.
+	  * Conventional wisdom is normally wrong.
     * Although it feels safer to be the cook, with AI coming, it's actually safer to be a chef because recipes are easy for narrow intelligence.
   * Discussion on discovery process for innovation
     * Find a topic
