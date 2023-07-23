@@ -94,7 +94,7 @@ Summarized bullets.  More details are over in [References](references.md#5)
         * Most people reason from analogy because it's an evolutionary adaptation to create a shortcut
       * Because he reasons from first principles he will push through all the reasons that people think things can not be done because the first principles say it can be done.
       * People want to fit in, but that's something that you can easily reason past.  The key is just the self-awareness to understand your own tribal psychology and the delusion that comes along with it and realizing that conventional wisdom is now wisdom for a reality that doesn't exist anymore.
-        * Conventional wisdowm is normally wrong.
+        * Conventional wisdom is normally wrong.
 * To have a plan to succeed long term you need to pretend that everyone is going to be selfish forever and make it so that is part of the key to your success.  In other words, don't plan on people changing for you to be successful.  Rely on them staying the same.
 * "Grand Theft Life" - People would be more successful and happier if they could breakaway from the fear of consequences that are more tribal than real
 * Knowledge is a tree.  If you don't have the trunk when you get knowledge that is a leaf or a branch it will simply fall, because you don't have context to anchor it
