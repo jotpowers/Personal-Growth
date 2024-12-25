@@ -20,7 +20,7 @@ What do you want to be doing in 3 years?
 
 This is a deceptively simple question.  The tendency is to describe what you want to be doing by title.  
 
-"I want to be a <director, architect, senior developer> in three years."
+"I want to be a 'director, architect, senior developer' in three years."
 
 This is not what we're looking for.  By focusing on a title or a position you are not thinking deeply enough about the 'what' portion of the question.   It is a useful place to start though.  Take that position and start asking questions:
 * What are the activities that people do in that position that I want to do?

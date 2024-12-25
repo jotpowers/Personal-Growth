@@ -12,7 +12,7 @@ How did I come up with that number?  The book was released in 2015, and it's sho
 Ok, there are a few cases I can imagine.  The first is that an organization has a group they intend to jettison.  The existing manager was fired/left and they need someone to fill that role so they don't have to worry about it while the figure out strategy, where they know this group won't exist anymore.  Safe to say, you don't want to be in that role.  Second, you have a leader who is incompetent.  This one you can figure out.  Look who they have made managers in the past, and how successful they've been.  If that hasn't worked out on more than one occasion, recognize a few things.  First, they're bad at this.  Second, you're in a bad position.  Third, they're unlikely to be there long-term.
 
 ## 3
-These are my more detailed notes for the [Joe Mansueto podcast](podcasts.md#joe).  I wrote them out, but they're too long for the podcast page itself, but I think I'll still want to reference them, so including them here.
+These are my more detailed notes for the [Joe Mansueto podcast](podcasts.md#joe-mansueto).  I wrote them out, but they're too long for the podcast page itself, but I think I'll still want to reference them, so including them here.
 
   * Simplify.  Simplify.  Simplify.
   * Heuristic around transaction cost:  Money.  Time.  Effort.  Cleanest way to setup a business to to reduce that transaction cost.
@@ -48,7 +48,7 @@ These are my more detailed notes for the [Joe Mansueto podcast](podcasts.md#joe)
     * Don't try to satisfy all comers.
 
 ## 4
-These are my more detailed notes for the [Danny Moses podcast](podcasts.md#danny).
+These are my more detailed notes for the [Danny Moses podcast](podcasts.md#danny-moses).
 
   * What are the most common traits if you were going to hire a 20-23 year old?
     * Be an out of the box thinker
@@ -67,7 +67,7 @@ These are my more detailed notes for the [Danny Moses podcast](podcasts.md#danny
   * The use of non-GAAP can not work long term.  Over S&P 500 is trading over 20 on a GAAP basis.
 
 ## 5
-These are my more detailed notes for the [Tim Urban podcast](podcasts.md#urban).
+These are my more detailed notes for the [Tim Urban podcast](podcasts.md#tim-urban).
   * Detailed discussion on _compounding_
   * Die progress unit.  How far to you have to go into the future in order to simply die due to the shock of the progress/change that has happened?
   * Artifical intelligence

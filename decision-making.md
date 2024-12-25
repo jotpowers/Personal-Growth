@@ -18,7 +18,7 @@ I've been spending a lot of time recently reading and thinking about decision ma
 
 ## Quantifying Decisions
 
-My first noodling on the subject came from reading [Superforecasting](books.md#Superforecasting).  It's on my "must read" list for a reason.  But, the key here is to look at how people who are good at forecasting (which is just trying to estimate the outcomes that could impact your decision making) do it.  You should read the whole book, it's remarkably well written in a bog pit of business books, but if I were to summarize, here is what it would be:
+My first noodling on the subject came from reading [Superforecasting](books.md#superforecasting---philip-tetlock).  It's on my "must read" list for a reason.  But, the key here is to look at how people who are good at forecasting (which is just trying to estimate the outcomes that could impact your decision making) do it.  You should read the whole book, it's remarkably well written in a bog pit of business books, but if I were to summarize, here is what it would be:
 
 1. Create a baseline probability based on analyzing historical results.  
 2. Modify that baseline with any other data that you think would change the results either up or down.
@@ -29,7 +29,7 @@ This seems remarkably simple, but chances are you've never done this.  (I know I
 ![Thinking in Bets](assets/tib.jpg)
 ## Wanna' Bet?
 
-From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [podcast](podcasts.md#annieduke1)[(s)](podcasts.md#annieduke2).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
+From here we move into a discussion of how we could use that data in decision making.  I started thunking on this after listening to Annie Duke's [podcast](podcasts.md#annie-duke)[(s)](podcasts.md#annie-duke-1).  From there I clearly had to read her book as well.  Here we really start thinking about decision making, and there are few points that are super important.
 
 One of the important pieces out of this is to recognize that (almost) all decisions are made with imperfect information.   Given that, your ability to have 100% correct decisions and outcomes is impossible.  (It's why poker is a great teaching tool).
 
