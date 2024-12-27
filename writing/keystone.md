@@ -28,7 +28,7 @@ Here are some of my examples:
     * Running them
     * Understanding slicing 
     * Building them
-  * 3D design ( [Fusion360](https://www.autodesk.com/products/fusion-360/personal)] )
+  * 3D design ( [Fusion360](https://www.autodesk.com/products/fusion-360/personal) )
   * Python (don't get too excited, it was a [small project](https://www.powersover.com/ds2/Hobbies/tshirts/tshirts) )
 
 
