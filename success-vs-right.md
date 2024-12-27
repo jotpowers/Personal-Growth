@@ -16,7 +16,7 @@ The answer to that is "maybe", and I want to dig more into that, but first...
 
 There is a spectrum of options from "always doing the *right* thing" to "I'll do whatever it takes to be successful".  If you are in the "I'll do whatever it takes" camp, that makes you a sociopath.  "Always doing the right thing" is a great goal, but it comes with a huge load of baggage around your moral and cultural views.  Now, back to being right.
 
-It is also a true that being "right" isn't binary.  Virtually everything in life is about probabilities, and you're just trying to ensure that you're following the path of probabilities that have the highest chance of making you successful.
+It is also a true that being "right" isn't binary.  [Virtually everything in life is about probabilities](decision-making.md), and you're just trying to ensure that you're following the path of probabilities that have the highest chance of making you successful.
 
 This is my list of ways you can be right and not successful.  Hopefully they're useful to you.
 
