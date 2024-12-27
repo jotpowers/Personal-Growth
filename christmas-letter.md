@@ -54,4 +54,4 @@ I'm tired of writing the letter (just like I'm tired out Out of Office messages,
 
 ## Samples
 
-Ok, I should provide some samples here, but it would be a lot of work to pull the PII data from them, so I'm sure I'll do it at some time, just not sure when.
+Ok, I should provide some samples here, but it would be a lot of work to pull the [PII](https://www.investopedia.com/terms/p/personally-identifiable-information-pii.asp) data from them, so I'm sure I'll do it at some time, just not sure when.
