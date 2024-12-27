@@ -45,9 +45,7 @@ I'd guess for sales people it is 3, 1, 2.
 
 ### Physical Fitness
 
-:::note
-"You can have all the riches and success in the world, but if you don't have your health, you have nothing." - Steven Adler
-:::note
+> "You can have all the riches and success in the world, but if you don't have your health, you have nothing." - Steven Adler
 
 You just need to prioritize this.  Find things that you enjoy, so it doesn't feel like work, but you want to be physically fit.  Don't worry about running marathons or going to the Crossfit games.  Just make sure that you spend time trading sedentary time for active time.  Even if that active time is just walking, you'll be far better off.
 
