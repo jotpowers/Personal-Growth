@@ -67,7 +67,8 @@ Ok, I think Shane Parrish has gone overboard on this, but I also think (see abov
 
 ### How People Make Decisions
 
-:::note  Originally I had this higher up but I think it interferes with the flow of the documentation, so I moved it down here.  Also, I haven't done enough research on the actual state of science on this part to advocate for it as truth.
+:::note  
+Originally I had this higher up but I think it interferes with the flow of the documentation, so I moved it down here.  Also, I haven't done enough research on the actual state of science on this part to advocate for it as truth.
 :::
 
 Interestingly enough, how people make decisions isn't necessarily straight forward.  There are generally three ways that people make decisions, recognizing of course, that these aren't discrete, but ranges.  Which is to say, there is a continuium between them that the decision process can fall into.  What is vitally important to recognize is that most people will rationalize this decision process after the fact to make it fit their internal narrative.
