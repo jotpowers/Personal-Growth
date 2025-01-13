@@ -25,7 +25,7 @@ Earn the gift.  Give the gift carefully.
 
 ## Unsolicited Feedback Should Only Be Positive
 
-If someone hasn't requested feedback (see above), then the only feedback you should give is positive.  They'll appreciate it, because it's positive.  If you have negative/"here are things I think could be improved" feedback, keep that to yourself unless it is asked for.
+If someone hasn't requested feedback (see above), then the only feedback you should give is positive.  They'll appreciate it, because it's positive.  If you have negative/"here are things I think could be improved" feedback, keep that to yourself unless they specifically ask for it.
 
 ## 30 Years Later, Bluetooth is Still Horrible
 
