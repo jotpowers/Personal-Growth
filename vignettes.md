@@ -23,6 +23,10 @@ I've given feedback in the past where it wasn't earned.  It just creates resentf
 
 Earn the gift.  Give the gift carefully.
 
+## Unsolicited Feedback Should Only Be Positive
+
+If someone hasn't requested feedback (see above), then the only feedback you should give is positive.  They'll appreciate it, because it's positive.  If you have negative/"here are things I think could be improved" feedback, keep that to yourself unless it is asked for.
+
 ## 30 Years Later, Bluetooth is Still Horrible
 
 I just wish the same [guy](https://en.wikipedia.org/wiki/Gunpei_Yokoi) that designed the [Game Boy](https://en.wikipedia.org/wiki/Game_Boy) had designed Bluetooth.  Or how about the engineers behind the [Nokia 3210](https://en.wikipedia.org/wiki/Nokia_3210)?
