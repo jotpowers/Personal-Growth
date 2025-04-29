@@ -50,6 +50,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 1. "The chasm between 'know' and 'think' is larger than the Grand Canyon."
 1. "I always use hyperbole."
 1. "My pain tolerance is writing checks my body can't cash."
+1. "The more you have to explain a metric, the worse it is."
  
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"
