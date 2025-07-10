@@ -51,6 +51,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 1. "I always use hyperbole."
 1. "My pain tolerance is writing checks my body can't cash."
 1. "The more you have to explain a metric, the worse it is."
+1. "From 30,000 feet every problem looks simple to solve."
  
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"
