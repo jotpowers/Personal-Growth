@@ -105,3 +105,15 @@ Grandparents are critical, because they help prevent problems from perpetuating 
 Everyone has things that happened to them that they say "I'll never do that with my children."  But, they often don't actually understand the context and the tradeoffs, because, well, they're kids.  So, they prevent that for their children, and thereby cause the problem that their parents wanted to make sure "never happened to their children".
 
 Grandparents help provide the context on the original so it doesn't just change into an every-other-generation thing.
+
+## Hans and Franz Philosophy
+
+My "Hans and Franz" philosophy is my humorous way to point out to people this life view:
+
+"I hear what you're saying, but I'm going to watch what you're actually doing and base my actions on your observed behavior, not what you say your observed behavior should be."
+
+That's a mouthful though, and I feel like it is best summarized by Saturday Night Live's [Hans and Franz](https://en.wikipedia.org/wiki/Hans_and_Franz).
+
+["Hear me now and believe me later."](https://www.youtube.com/watch?v=GAalP0jeqV4&t=73s)
+
+I hear what you're saying, but I'll believe it when I see it. 
