@@ -53,6 +53,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 1. "The more you have to explain a metric, the worse it is."
 1. "From 30,000 feet every problem looks simple to solve."
 1. "Every company in the world should be ecstatic if they have **one** 'single point of failure'." 
+1. "Any product that has 'Smart' in the name is stupid."
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"
 * Greg: "Rule 1: Never Google anything Jot says."
