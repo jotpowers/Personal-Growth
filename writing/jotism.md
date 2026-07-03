@@ -54,7 +54,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 1. "From 30,000 feet every problem looks simple to solve."
 1. "Every company in the world should be ecstatic if they have **one** 'single point of failure'." 
 1. "Any product that has 'Smart' in the name is stupid."
-1. "There are two ways I'll tell you 'No'.  The first is 'No'.  The second is "File a ticket".
+1. "There are two ways I'll tell you 'No'.  The first is 'No'.  The second is 'File a ticket'."
 1. "70% of all internet outages are caused by three things: DNS, certificates, or backhoes."
 1. "We're in violent agreement."
 1. "How many single sources of truth do we have?"
