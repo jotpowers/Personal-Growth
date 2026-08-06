@@ -58,7 +58,7 @@ I've gained a reputation for simple, pithy, sarcastic, (and supposedly) funny co
 1. "70% of all internet outages are caused by three things: DNS, certificates, or backhoes."
 1. "We're in violent agreement."
 1. "How many single sources of truth do we have?"
-1. "No plan survives first contact with the enemy, and we are the enemy." 
+1. "No plan survives first contact with the enemy, and we are the enemy." - Context:  Also, it was our plan.
 ## Reactions
 * Felipe: "@Jot - I actually googled "masochism app" until I realized it was sarcasm"
 * Greg: "Rule 1: Never Google anything Jot says."
