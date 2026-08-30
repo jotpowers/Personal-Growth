@@ -16,7 +16,7 @@ On the face of it, trying to "build a network" can seem to be pretty darn slimey
 
 You want to build a network because having more connections allows you to achieve better results.  In my mind, even more importantly, having a bigger network allows you to make *other* people more successful.  This seems counterintuitive.  Why would you want to make other people more successful?  Long term, this is the way that you will achieve the greatest success.  If you're doing it because you want success, I just don't think you can fake it long enough.  However, if you do it because you really want (select) other people to succeed, then it's a flywheel that is very easy to get started.
 
-This is because you really want to do is develop relationships.  Finding people that you work well with and interact with is really rare.  You are more likely to 'gel' with people who are similar to you, and branching out forces you to grow and get to know people that are outside of your comfort zone.  The more you are outside your comfort zone, the more you have an opportunity to grow and be successful.
+This is because what you really want to do is develop relationships.  Finding people that you work well with and interact with is really rare.  You are more likely to 'gel' with people who are similar to you, and branching out forces you to grow and get to know people that are outside of your comfort zone.  The more you are outside your comfort zone, the more you have an opportunity to grow and be successful.
 
 ## How
 
